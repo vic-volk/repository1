@@ -1,0 +1,1142 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="45791523-4d5a-42fd-a41d-39c1d8654cd0" name="Default" comment="" />
+    <ignored path="collectionsTest.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <file path="$PROJECT_DIR$/../z8/.idea/workspace.xml" changelist="45791523-4d5a-42fd-a41d-39c1d8654cd0" time="1413984458119" ignored="false" />
+    <file path="/CollectionManager.java" changelist="45791523-4d5a-42fd-a41d-39c1d8654cd0" time="1416299865561" ignored="false" />
+    <file path="/CollectionsTest.java" changelist="45791523-4d5a-42fd-a41d-39c1d8654cd0" time="1415609867111" ignored="false" />
+    <file path="/fragment.java" changelist="45791523-4d5a-42fd-a41d-39c1d8654cd0" time="1417426316160" ignored="false" />
+    <file path="$PROJECT_DIR$/../testDocs4j/src/main/java/Main.java" changelist="45791523-4d5a-42fd-a41d-39c1d8654cd0" time="1414059078899" ignored="false" />
+    <file path="/Main.java" changelist="45791523-4d5a-42fd-a41d-39c1d8654cd0" time="1415608088999" ignored="false" />
+    <file path="$PROJECT_DIR$/../testJODC/pom.xml" changelist="45791523-4d5a-42fd-a41d-39c1d8654cd0" time="1414059314947" ignored="false" />
+    <file path="$PROJECT_DIR$/../testJODC/src/main/java/Main.java" changelist="45791523-4d5a-42fd-a41d-39c1d8654cd0" time="1414062044168" ignored="false" />
+    <file path="$PROJECT_DIR$/../testJODC/src/main/java/JODConverter.java" changelist="45791523-4d5a-42fd-a41d-39c1d8654cd0" time="1414066483121" ignored="false" />
+    <file path="$PROJECT_DIR$/../testJODC/src/main/java/AdobeConverter.java" changelist="45791523-4d5a-42fd-a41d-39c1d8654cd0" time="1414061965668" ignored="false" />
+    <file path="/AdobeConverter.java" changelist="45791523-4d5a-42fd-a41d-39c1d8654cd0" time="1414061915301" ignored="false" />
+    <file path="/JODConverter.java" changelist="45791523-4d5a-42fd-a41d-39c1d8654cd0" time="1414066482397" ignored="false" />
+    <file path="$PROJECT_DIR$/../org.samples.docxconverters.jodconverter/src/org/samples/docxconverters/jodconverter/pdf/Docx4j_GettingStartedToPDF.java" changelist="45791523-4d5a-42fd-a41d-39c1d8654cd0" time="1414156429558" ignored="false" />
+    <file path="/a.dummy" changelist="45791523-4d5a-42fd-a41d-39c1d8654cd0" time="1417442099407" ignored="false" />
+    <file path="/Docx4j_GettingStartedToPDF.java" changelist="45791523-4d5a-42fd-a41d-39c1d8654cd0" time="1414068771736" ignored="false" />
+    <file path="$PROJECT_DIR$/../z8/ru.ivk.z8.servlet/trunk/src/main/java/ru/ivk/z8/web/servlet/PDFCacheServlet.java" changelist="45791523-4d5a-42fd-a41d-39c1d8654cd0" time="1414158313908" ignored="false" />
+    <file path="/LoadFilesTest.java" changelist="45791523-4d5a-42fd-a41d-39c1d8654cd0" time="1414150722311" ignored="false" />
+    <file path="/PDFCacheServlet.java" changelist="45791523-4d5a-42fd-a41d-39c1d8654cd0" time="1414158260952" ignored="false" />
+    <file path="$PROJECT_DIR$/../z8/ru.ivk.z8.servlet/trunk/pom.xml" changelist="45791523-4d5a-42fd-a41d-39c1d8654cd0" time="1417165296687" ignored="false" />
+    <file path="/pom.xml" changelist="45791523-4d5a-42fd-a41d-39c1d8654cd0" time="1417692380017" ignored="false" />
+    <file path="/Dummy.txt" changelist="45791523-4d5a-42fd-a41d-39c1d8654cd0" time="1417692295291" ignored="false" />
+    <file path="$PROJECT_DIR$/../eemodule/pom.xml" changelist="45791523-4d5a-42fd-a41d-39c1d8654cd0" time="1415347602272" ignored="false" />
+    <file path="$PROJECT_DIR$/../alliances/alliances/pom.xml" changelist="45791523-4d5a-42fd-a41d-39c1d8654cd0" time="1415348126982" ignored="false" />
+    <file path="$PROJECT_DIR$/../alliances/alliances/src/main/webapp/conf/spring.config.xml" changelist="45791523-4d5a-42fd-a41d-39c1d8654cd0" time="1415349184834" ignored="false" />
+    <file path="$PROJECT_DIR$/../z8/ru.ivk.z8.servlet/trunk/src/main/java/ru/ivk/z8/web/server/PDFCacheAdapter.java" changelist="45791523-4d5a-42fd-a41d-39c1d8654cd0" time="1417528837721" ignored="false" />
+    <file path="$PROJECT_DIR$/../z8/ru.ivk.z8.servlet/trunk/src/main/java/ru/ivk/z8/web/server/JsonAdapter.java" changelist="45791523-4d5a-42fd-a41d-39c1d8654cd0" time="1417692248238" ignored="false" />
+    <file path="$PROJECT_DIR$/../postfactor/postfactor-webapp/trunk/src/main/webapp/index.html" changelist="45791523-4d5a-42fd-a41d-39c1d8654cd0" time="1415357601830" ignored="false" />
+    <file path="$PROJECT_DIR$/../postfactor/postfactor-webapp/trunk/src/main/webapp/WEB-INF/web.xml" changelist="45791523-4d5a-42fd-a41d-39c1d8654cd0" time="1415357601830" ignored="false" />
+    <file path="$PROJECT_DIR$/../postfactor/postfactor-webapp/trunk/src/main/webapp/WEB-INF/project.xml" changelist="45791523-4d5a-42fd-a41d-39c1d8654cd0" time="1417528745675" ignored="false" />
+    <file path="/JsonAdapter.java" changelist="45791523-4d5a-42fd-a41d-39c1d8654cd0" time="1417692247568" ignored="false" />
+    <file path="$MAVEN_REPOSITORY$/ru/ivk/z8/ru.ivk.z8.servlet/1.0.0/ru.ivk.z8.servlet-1.0.0-sources.jar!/ru/ivk/z8/web/server/PDFCacheAdapter.java" changelist="45791523-4d5a-42fd-a41d-39c1d8654cd0" time="1417528933349" ignored="false" />
+    <file path="$MAVEN_REPOSITORY$/ru/ivk/z8/ru.ivk.z8.servlet/1.0.0/ru.ivk.z8.servlet-1.0.0-sources.jar!/ru/ivk/z8/web/server/JsonAdapter.java" changelist="45791523-4d5a-42fd-a41d-39c1d8654cd0" time="1417528933349" ignored="false" />
+    <file path="$PROJECT_DIR$/../z8/ru.ivk.z8.server/trunk/src/main/java/ru/ivk/z8/server/base/model/actions/FileAttachAction.java" changelist="45791523-4d5a-42fd-a41d-39c1d8654cd0" time="1415625555385" ignored="false" />
+    <file path="/FileAttachAction.java" changelist="45791523-4d5a-42fd-a41d-39c1d8654cd0" time="1415624229741" ignored="false" />
+    <file path="/CollectionObjectManager.java" changelist="45791523-4d5a-42fd-a41d-39c1d8654cd0" time="1415610288415" ignored="false" />
+    <file path="$PROJECT_DIR$/../z8/ru.ivk.z8.server/trunk/src/main/java/ru/ivk/z8/server/base/table/value/BinaryField.java" changelist="45791523-4d5a-42fd-a41d-39c1d8654cd0" time="1415634184440" ignored="false" />
+    <file path="/BinaryField.java" changelist="45791523-4d5a-42fd-a41d-39c1d8654cd0" time="1415633571915" ignored="false" />
+    <file path="$PROJECT_DIR$/../z8/ru.ivk.z8.server/trunk/src/main/java/ru/ivk/z8/server/base/table/system/Files.java" changelist="45791523-4d5a-42fd-a41d-39c1d8654cd0" time="1416400031234" ignored="false" />
+    <file path="/Files.java" changelist="45791523-4d5a-42fd-a41d-39c1d8654cd0" time="1416399410910" ignored="false" />
+    <file path="$PROJECT_DIR$/../z8/ru.ivk.z8.server/trunk/src/main/java/ru/ivk/z8/server/types/binary.java" changelist="45791523-4d5a-42fd-a41d-39c1d8654cd0" time="1416401452225" ignored="false" />
+    <file path="$PROJECT_DIR$/../z8/ru.ivk.z8.server/trunk/src/main/java/ru/ivk/z8/server/base/model/actions/ActionFactory.java" changelist="45791523-4d5a-42fd-a41d-39c1d8654cd0" time="1415627850944" ignored="false" />
+    <file path="/ActionFactory.java" changelist="45791523-4d5a-42fd-a41d-39c1d8654cd0" time="1415627849493" ignored="false" />
+    <file path="$PROJECT_DIR$/../z8/ru.ivk.z8.server/trunk/src/main/java/ru/ivk/z8/server/base/model/actions/Action.java" changelist="45791523-4d5a-42fd-a41d-39c1d8654cd0" time="1417530949310" ignored="false" />
+    <file path="/Action.java" changelist="45791523-4d5a-42fd-a41d-39c1d8654cd0" time="1417530949310" ignored="false" />
+    <file path="$PROJECT_DIR$/../z8/ru.ivk.z8.server/trunk/src/main/java/ru/ivk/z8/server/base/model/actions/AttachAction.java" changelist="45791523-4d5a-42fd-a41d-39c1d8654cd0" time="1415976956379" ignored="false" />
+    <file path="$PROJECT_DIR$/../z8/ru.ivk.z8.server/trunk/src/main/java/ru/ivk/z8/server/runtime/RuntimeBase.java" changelist="45791523-4d5a-42fd-a41d-39c1d8654cd0" time="1415628777735" ignored="false" />
+    <file path="/RuntimeBase.java" changelist="45791523-4d5a-42fd-a41d-39c1d8654cd0" time="1415628773516" ignored="false" />
+    <file path="/AttachAction.java" changelist="45791523-4d5a-42fd-a41d-39c1d8654cd0" time="1415976236725" ignored="false" />
+    <file path="$PROJECT_DIR$/../z8/ru.ivk.z8.server/trunk/src/main/java/ru/ivk/z8/server/request/IRequest.java" changelist="45791523-4d5a-42fd-a41d-39c1d8654cd0" time="1415971976747" ignored="false" />
+    <file path="/IRequest.java" changelist="45791523-4d5a-42fd-a41d-39c1d8654cd0" time="1415971973020" ignored="false" />
+    <file path="$PROJECT_DIR$/../z8/ru.ivk.z8.server/trunk/src/main/java/ru/ivk/z8/server/request/Request.java" changelist="45791523-4d5a-42fd-a41d-39c1d8654cd0" time="1415972107144" ignored="false" />
+    <file path="/Request.java" changelist="45791523-4d5a-42fd-a41d-39c1d8654cd0" time="1415972105374" ignored="false" />
+    <file path="$PROJECT_DIR$/../z8/ru.ivk.z8.server/trunk/src/main/java/ru/ivk/z8/server/base/table/value/util/AttachmentsProcessor.java" changelist="45791523-4d5a-42fd-a41d-39c1d8654cd0" time="1415797548111" ignored="false" />
+    <file path="/AttachmentsProcessor.java" changelist="45791523-4d5a-42fd-a41d-39c1d8654cd0" time="1417690467715" ignored="false" />
+    <file path="$PROJECT_DIR$/../z8/ru.ivk.z8.server/trunk/src/main/java/ru/ivk/z8/server/base/file/FilesStorage.java" changelist="45791523-4d5a-42fd-a41d-39c1d8654cd0" time="1417165296687" ignored="false" />
+    <file path="/FilesStorage.java" changelist="45791523-4d5a-42fd-a41d-39c1d8654cd0" time="1416402339611" ignored="false" />
+    <file path="$MAVEN_REPOSITORY$/ru/ivk/z8/ru.ivk.z8.server/1.0.0/ru.ivk.z8.server-1.0.0-sources.jar!/ru/ivk/z8/server/base/model/actions/ActionFactory.java" changelist="45791523-4d5a-42fd-a41d-39c1d8654cd0" time="1415634199566" ignored="false" />
+    <file path="$PROJECT_DIR$/../z8/ru.ivk.z8.server/trunk/src/main/java/ru/ivk/z8/server/resources/Resources.java" changelist="45791523-4d5a-42fd-a41d-39c1d8654cd0" time="1415634287681" ignored="false" />
+    <file path="/Resources.java" changelist="45791523-4d5a-42fd-a41d-39c1d8654cd0" time="1415634287106" ignored="false" />
+    <file path="C:/Program Files (x86)/Java/jdk1.7.0_67/src.zip!/java/sql/PreparedStatement.java" changelist="45791523-4d5a-42fd-a41d-39c1d8654cd0" time="1415634584683" ignored="false" />
+    <file path="$PROJECT_DIR$/../z8/ru.ivk.z8.server/trunk/src/main/java/ru/ivk/z8/server/db/BasicStatement.java" changelist="45791523-4d5a-42fd-a41d-39c1d8654cd0" time="1417165296687" ignored="false" />
+    <file path="/BasicStatement.java" changelist="45791523-4d5a-42fd-a41d-39c1d8654cd0" time="1415635405387" ignored="false" />
+    <file path="$MAVEN_REPOSITORY$/ru/ivk/z8/ru.ivk.z8.server/1.0.0/ru.ivk.z8.server-1.0.0-sources.jar!/ru/ivk/z8/server/db/BasicStatement.java" changelist="45791523-4d5a-42fd-a41d-39c1d8654cd0" time="1415635429064" ignored="false" />
+    <file path="/JSONTest.java" changelist="45791523-4d5a-42fd-a41d-39c1d8654cd0" time="1415792909538" ignored="false" />
+    <file path="$PROJECT_DIR$/../z8/ru.ivk.z8.server/trunk/src/main/java/ru/ivk/z8/server/base/table/value/util/FileInfo.java" changelist="45791523-4d5a-42fd-a41d-39c1d8654cd0" time="1415797548111" ignored="false" />
+    <file path="$MAVEN_REPOSITORY$/ru/ivk/z8/ru.ivk.z8.server/1.0.0/ru.ivk.z8.server-1.0.0-sources.jar!/ru/ivk/z8/server/base/model/actions/AttachAction.java" changelist="45791523-4d5a-42fd-a41d-39c1d8654cd0" time="1415976984361" ignored="false" />
+    <file path="/ManInTheCircle.java" changelist="45791523-4d5a-42fd-a41d-39c1d8654cd0" time="1415871743584" ignored="false" />
+    <file path="/ManInTheCircleTest.java" changelist="45791523-4d5a-42fd-a41d-39c1d8654cd0" time="1415871275409" ignored="false" />
+    <file path="C:/Program Files (x86)/Java/jdk1.7.0_67/src.zip!/java/io/FileOutputStream.java" changelist="45791523-4d5a-42fd-a41d-39c1d8654cd0" time="1415877360946" ignored="false" />
+    <file path="$PROJECT_DIR$/../z8/ru.ivk.z8.server/trunk/src/main/java/ru/ivk/z8/server/json/JsonWriter.java" changelist="45791523-4d5a-42fd-a41d-39c1d8654cd0" time="1416303479381" ignored="false" />
+    <file path="/JsonWriter.java" changelist="45791523-4d5a-42fd-a41d-39c1d8654cd0" time="1416303478692" ignored="false" />
+    <file path="$PROJECT_DIR$/../z8/ru.ivk.z8.server/trunk/src/main/java/ru/ivk/z8/server/base/file/FileInfo.java" changelist="45791523-4d5a-42fd-a41d-39c1d8654cd0" time="1417690372081" ignored="false" />
+    <file path="$PROJECT_DIR$/../z8/ru.ivk.z8.server/trunk/src/main/java/ru/ivk/z8/server/base/file/AttachmentsProcessor.java" changelist="45791523-4d5a-42fd-a41d-39c1d8654cd0" time="1417692093298" ignored="false" />
+    <file path="$PROJECT_DIR$/../z8/ru.ivk.z8.server/trunk/src/main/java/ru/ivk/z8/server/base/table/Table.java" changelist="45791523-4d5a-42fd-a41d-39c1d8654cd0" time="1415878151459" ignored="false" />
+    <file path="/HashMapTest.java" changelist="45791523-4d5a-42fd-a41d-39c1d8654cd0" time="1417266260687" ignored="false" />
+    <file path="$PROJECT_DIR$/../postfactor/postfactor-core/trunk/ru/ivk/postfactor/загрузка/Загрузка.bl" changelist="45791523-4d5a-42fd-a41d-39c1d8654cd0" time="1415977164749" ignored="false" />
+    <file path="/Загрузка.bl" changelist="45791523-4d5a-42fd-a41d-39c1d8654cd0" time="1415892669443" ignored="false" />
+    <file path="/StatementsTest.java" changelist="45791523-4d5a-42fd-a41d-39c1d8654cd0" time="1415961665845" ignored="false" />
+    <file path="/FileInfo.java" changelist="45791523-4d5a-42fd-a41d-39c1d8654cd0" time="1417690362761" ignored="false" />
+    <file path="$PROJECT_DIR$/../z8/ru.ivk.z8.server/trunk/src/main/java/ru/ivk/z8/server/base/xml/GNode.java" changelist="45791523-4d5a-42fd-a41d-39c1d8654cd0" time="1415971991062" ignored="false" />
+    <file path="/GNode.java" changelist="45791523-4d5a-42fd-a41d-39c1d8654cd0" time="1415971991062" ignored="false" />
+    <file path="$PROJECT_DIR$/../z8/ru.ivk.z8.servlet/trunk/src/main/java/ru/ivk/z8/web/server/Adapter.java" changelist="45791523-4d5a-42fd-a41d-39c1d8654cd0" time="1417528837721" ignored="false" />
+    <file path="/Adapter.java" changelist="45791523-4d5a-42fd-a41d-39c1d8654cd0" time="1415973309910" ignored="false" />
+    <file path="$PROJECT_DIR$/../z8/ru.ivk.z8.server/trunk/src/main/java/ru/ivk/z8/server/engine/ApplicationServer.java" changelist="45791523-4d5a-42fd-a41d-39c1d8654cd0" time="1416396274214" ignored="false" />
+    <file path="/ApplicationServer.java" changelist="45791523-4d5a-42fd-a41d-39c1d8654cd0" time="1416395998542" ignored="false" />
+    <file path="$PROJECT_DIR$/../z8/ru.ivk.z8.server/trunk/src/main/java/ru/ivk/z8/server/types/primary.java" changelist="45791523-4d5a-42fd-a41d-39c1d8654cd0" time="1415972795305" ignored="false" />
+    <file path="/primary.java" changelist="45791523-4d5a-42fd-a41d-39c1d8654cd0" time="1415972789607" ignored="false" />
+    <file path="$MAVEN_REPOSITORY$/ru/ivk/z8/ru.ivk.z8.server/1.0.0/ru.ivk.z8.server-1.0.0-sources.jar!/ru/ivk/z8/server/json/JsonWriter.java" changelist="45791523-4d5a-42fd-a41d-39c1d8654cd0" time="1415976984361" ignored="false" />
+    <file path="$MAVEN_REPOSITORY$/ru/ivk/z8/ru.ivk.z8.servlet/1.0.0/ru.ivk.z8.servlet-1.0.0-sources.jar!/ru/ivk/z8/web/server/Adapter.java" changelist="45791523-4d5a-42fd-a41d-39c1d8654cd0" time="1415976998515" ignored="false" />
+    <file path="/binary.java" changelist="45791523-4d5a-42fd-a41d-39c1d8654cd0" time="1416401447663" ignored="false" />
+    <file path="$PROJECT_DIR$/../z8/ru.ivk.z8.server/trunk/src/main/java/ru/ivk/z8/server/engine/IApplicationServer.java" changelist="45791523-4d5a-42fd-a41d-39c1d8654cd0" time="1417528837721" ignored="false" />
+    <file path="/IApplicationServer.java" changelist="45791523-4d5a-42fd-a41d-39c1d8654cd0" time="1416303723919" ignored="false" />
+    <file path="$MAVEN_REPOSITORY$/commons-fileupload/commons-fileupload/1.3.1/commons-fileupload-1.3.1-sources.jar!/org/apache/commons/fileupload/disk/DiskFileItem.java" changelist="45791523-4d5a-42fd-a41d-39c1d8654cd0" time="1416304792658" ignored="false" />
+    <file path="/StreamsTest.java" changelist="45791523-4d5a-42fd-a41d-39c1d8654cd0" time="1417693128940" ignored="false" />
+    <file path="$MAVEN_REPOSITORY$/ru/ivk/z8/ru.ivk.z8.server/1.0.0/ru.ivk.z8.server-1.0.0-sources.jar!/ru/ivk/z8/server/base/file/AttachmentsProcessor.java" changelist="45791523-4d5a-42fd-a41d-39c1d8654cd0" time="1417690510107" ignored="false" />
+    <file path="$MAVEN_REPOSITORY$/ru/ivk/z8/ru.ivk.z8.server/1.0.0/ru.ivk.z8.server-1.0.0-sources.jar!/ru/ivk/z8/server/types/primary.java" changelist="45791523-4d5a-42fd-a41d-39c1d8654cd0" time="1416308402525" ignored="false" />
+    <file path="$MAVEN_REPOSITORY$/ru/ivk/z8/ru.ivk.z8.server/1.0.0/ru.ivk.z8.server-1.0.0-sources.jar!/ru/ivk/z8/server/types/binary.java" changelist="45791523-4d5a-42fd-a41d-39c1d8654cd0" time="1416308402525" ignored="false" />
+    <file path="$MAVEN_REPOSITORY$/ru/ivk/z8/ru.ivk.z8.server/1.0.0/ru.ivk.z8.server-1.0.0-sources.jar!/ru/ivk/z8/server/base/file/FileInfo.java" changelist="45791523-4d5a-42fd-a41d-39c1d8654cd0" time="1416395521653" ignored="false" />
+    <file path="/PDFCacheAdapter.java" changelist="45791523-4d5a-42fd-a41d-39c1d8654cd0" time="1416401027756" ignored="false" />
+    <file path="$PROJECT_DIR$/src/main/java/MultiThreading.java" changelist="45791523-4d5a-42fd-a41d-39c1d8654cd0" time="1416387535982" ignored="false" />
+    <file path="/Performer.java" changelist="45791523-4d5a-42fd-a41d-39c1d8654cd0" time="1416472740495" ignored="false" />
+    <file path="$PROJECT_DIR$/../z8/ru.ivk.z8.server/trunk/src/main/java/ru/ivk/z8/server/base/query/Query.java" changelist="45791523-4d5a-42fd-a41d-39c1d8654cd0" time="1416388732462" ignored="false" />
+    <file path="/Query.java" changelist="45791523-4d5a-42fd-a41d-39c1d8654cd0" time="1416388730447" ignored="false" />
+    <file path="$MAVEN_REPOSITORY$/ru/ivk/z8/ru.ivk.z8.server/1.0.0/ru.ivk.z8.server-1.0.0-sources.jar!/ru/ivk/z8/server/base/table/system/Files.java" changelist="45791523-4d5a-42fd-a41d-39c1d8654cd0" time="1417165767435" ignored="false" />
+    <file path="$MAVEN_REPOSITORY$/ru/ivk/z8/ru.ivk.z8.server/1.0.0/ru.ivk.z8.server-1.0.0-sources.jar!/ru/ivk/z8/server/engine/ApplicationServer.java" changelist="45791523-4d5a-42fd-a41d-39c1d8654cd0" time="1417528911482" ignored="false" />
+    <file path="$PROJECT_DIR$/../z8/ru.ivk.z8.server/trunk/src/main/java/ru/ivk/z8/server/utils/IOUtils.java" changelist="45791523-4d5a-42fd-a41d-39c1d8654cd0" time="1417165296687" ignored="false" />
+    <file path="/IOUtils.java" changelist="45791523-4d5a-42fd-a41d-39c1d8654cd0" time="1416398561084" ignored="false" />
+    <file path="$MAVEN_REPOSITORY$/org/eclipse/birt/runtime/3_7_1/org.apache.batik.pdf/1.6.0/org.apache.batik.pdf-1.6.0.jar!/org/apache/commons/io/IOUtils.class" changelist="45791523-4d5a-42fd-a41d-39c1d8654cd0" time="1416398918802" ignored="false" />
+    <file path="/file.java" changelist="45791523-4d5a-42fd-a41d-39c1d8654cd0" time="1416402681850" ignored="false" />
+    <file path="$PROJECT_DIR$/../z8/ru.ivk.z8.server/trunk/src/main/java/ru/ivk/z8/server/types/file.java" changelist="45791523-4d5a-42fd-a41d-39c1d8654cd0" time="1416402855818" ignored="false" />
+    <file path="$PROJECT_DIR$/../postfactor/postfactor-webapp/trunk/pom.xml" changelist="45791523-4d5a-42fd-a41d-39c1d8654cd0" time="1417165767435" ignored="false" />
+    <file path="/Queue.java" changelist="45791523-4d5a-42fd-a41d-39c1d8654cd0" time="1416472679969" ignored="false" />
+    <file path="$PROJECT_DIR$/../z8/pom.xml" changelist="45791523-4d5a-42fd-a41d-39c1d8654cd0" time="1417528837721" ignored="false" />
+    <file path="$PROJECT_DIR$/../z8/ru.ivk.z8.server/trunk/pom.xml" changelist="45791523-4d5a-42fd-a41d-39c1d8654cd0" time="1417165296687" ignored="false" />
+    <file path="$PROJECT_DIR$/../z8/ru.ivk.z8.server/trunk/src/main/java/ru/ivk/z8/server/types/datetime.java" changelist="45791523-4d5a-42fd-a41d-39c1d8654cd0" time="1417165296687" ignored="false" />
+    <file path="$PROJECT_DIR$/../z8/ru.ivk.z8.server/trunk/src/main/java/ru/ivk/z8/server/json/Json.java" changelist="45791523-4d5a-42fd-a41d-39c1d8654cd0" time="1417165296687" ignored="false" />
+    <file path="$PROJECT_DIR$/../z8/ru.ivk.z8.server/trunk/src/main/java/ru/ivk/z8/server/db/Connection.java" changelist="45791523-4d5a-42fd-a41d-39c1d8654cd0" time="1417165296687" ignored="false" />
+    <file path="$MAVEN_REPOSITORY$/ru/ivk/z8/ru.ivk.z8.servlet/1.0.0/ru.ivk.z8.servlet-1.0.0.pom" changelist="45791523-4d5a-42fd-a41d-39c1d8654cd0" time="1417165767435" ignored="false" />
+    <file path="$PROJECT_DIR$/../postfactor/pom.xml" changelist="45791523-4d5a-42fd-a41d-39c1d8654cd0" time="1417528749925" ignored="false" />
+    <file path="/*.regexp" changelist="45791523-4d5a-42fd-a41d-39c1d8654cd0" time="1417170376641" ignored="false" />
+    <file path="/*.txt" changelist="45791523-4d5a-42fd-a41d-39c1d8654cd0" time="1417170387318" ignored="false" />
+    <file path="/__dummy.xml" changelist="45791523-4d5a-42fd-a41d-39c1d8654cd0" time="1417170852349" ignored="false" />
+    <file path="$PROJECT_DIR$/../nupproxy/trunk/src/main/java/ru/ivk/nupproxy/client/ClientRequestHandlerServlet.java" changelist="45791523-4d5a-42fd-a41d-39c1d8654cd0" time="1417448603476" ignored="false" />
+    <file path="$PROJECT_DIR$/../nupproxy/trunk/src/main/java/ru/ivk/nupproxy/server/ServerRequestHandler.java" changelist="45791523-4d5a-42fd-a41d-39c1d8654cd0" time="1417426556416" ignored="false" />
+    <file path="$PROJECT_DIR$/../nupproxy/trunk/src/main/java/ru/ivk/nupproxy/IRemoteMethods.java" changelist="45791523-4d5a-42fd-a41d-39c1d8654cd0" time="1417355488339" ignored="false" />
+    <file path="/ClientRequestHandlerServlet.java" changelist="45791523-4d5a-42fd-a41d-39c1d8654cd0" time="1417448602743" ignored="false" />
+    <file path="$PROJECT_DIR$/../nupproxy/trunk/src/main/java/ru/ivk/nupproxy/types/SerHttpRequest.java" changelist="45791523-4d5a-42fd-a41d-39c1d8654cd0" time="1417447084879" ignored="false" />
+    <file path="/SerHttpRequest.java" changelist="45791523-4d5a-42fd-a41d-39c1d8654cd0" time="1417441596021" ignored="false" />
+    <file path="$PROJECT_DIR$/../nupproxy/trunk/src/main/java/ru/ivk/nupproxy/util/Util.java" changelist="45791523-4d5a-42fd-a41d-39c1d8654cd0" time="1417346952858" ignored="false" />
+    <file path="/Util.java" changelist="45791523-4d5a-42fd-a41d-39c1d8654cd0" time="1417338075060" ignored="false" />
+    <file path="$PROJECT_DIR$/../nupproxy/trunk/src/main/java/ru/ivk/nupproxy/types/SerHttpResponse.java" changelist="45791523-4d5a-42fd-a41d-39c1d8654cd0" time="1417275956012" ignored="false" />
+    <file path="/SerHttpResponse.java" changelist="45791523-4d5a-42fd-a41d-39c1d8654cd0" time="1417275848798" ignored="false" />
+    <file path="$PROJECT_DIR$/../nupproxy/trunk/src/main/resources/proxy-default-context.xml" changelist="45791523-4d5a-42fd-a41d-39c1d8654cd0" time="1417367717071" ignored="false" />
+    <file path="/proxy-default-context.xml" changelist="45791523-4d5a-42fd-a41d-39c1d8654cd0" time="1417367681761" ignored="false" />
+    <file path="$PROJECT_DIR$/../nupproxy/trunk/src/main/java/ru/ivk/nupproxy/params/Params.java" changelist="45791523-4d5a-42fd-a41d-39c1d8654cd0" time="1417368054785" ignored="false" />
+    <file path="/Params.java" changelist="45791523-4d5a-42fd-a41d-39c1d8654cd0" time="1417351978562" ignored="false" />
+    <file path="/ServerRequestHandler.java" changelist="45791523-4d5a-42fd-a41d-39c1d8654cd0" time="1417352469511" ignored="false" />
+    <file path="$PROJECT_DIR$/../nupproxy/trunk/src/test/java/ru/ivk/nupproxy/util/UtilTest.java" changelist="45791523-4d5a-42fd-a41d-39c1d8654cd0" time="1417336459498" ignored="false" />
+    <file path="/UtilTest.java" changelist="45791523-4d5a-42fd-a41d-39c1d8654cd0" time="1417335929715" ignored="false" />
+    <file path="$PROJECT_DIR$/../nupproxy/trunk/src/test/java/ru/ivk/nupproxy/util/UtilUriTest.java" changelist="45791523-4d5a-42fd-a41d-39c1d8654cd0" time="1417336469355" ignored="false" />
+    <file path="/UtilUriTest.java" changelist="45791523-4d5a-42fd-a41d-39c1d8654cd0" time="1417336436679" ignored="false" />
+    <file path="$PROJECT_DIR$/../nupproxy/trunk/src/main/java/ru/ivk/nupproxy/web/traffic/TrafficBean.java" changelist="45791523-4d5a-42fd-a41d-39c1d8654cd0" time="1417336749655" ignored="false" />
+    <file path="$PROJECT_DIR$/../nupproxy/trunk/src/main/java/ru/ivk/nupproxy/web/StatisticBean.java" changelist="45791523-4d5a-42fd-a41d-39c1d8654cd0" time="1417336784711" ignored="false" />
+    <file path="$PROJECT_DIR$/../nupproxy/trunk/src/main/java/ru/ivk/nupproxy/web/ActiveClientsBean.java" changelist="45791523-4d5a-42fd-a41d-39c1d8654cd0" time="1417336815961" ignored="false" />
+    <file path="/UriTest.java" changelist="45791523-4d5a-42fd-a41d-39c1d8654cd0" time="1417363433952" ignored="false" />
+    <file path="$PROJECT_DIR$/.idea/workspace.xml" changelist="45791523-4d5a-42fd-a41d-39c1d8654cd0" time="1417338333376" ignored="false" />
+    <file path="$PROJECT_DIR$/../nupproxy/trunk/src/main/java/ru/ivk/nupproxy/server/login/Z8LoginHandler.java" changelist="45791523-4d5a-42fd-a41d-39c1d8654cd0" time="1417448232921" ignored="false" />
+    <file path="/Z8LoginHandler.java" changelist="45791523-4d5a-42fd-a41d-39c1d8654cd0" time="1417448232270" ignored="false" />
+    <file path="$PROJECT_DIR$/../nupproxy/trunk/src/main/java/ru/ivk/nupproxy/server/LoginHandler.java" changelist="45791523-4d5a-42fd-a41d-39c1d8654cd0" time="1417353523298" ignored="false" />
+    <file path="$PROJECT_DIR$/../nupproxy/trunk/pom.xml" changelist="45791523-4d5a-42fd-a41d-39c1d8654cd0" time="1417451124103" ignored="false" />
+    <file path="$PROJECT_DIR$/../nupproxy/trunk/src/main/java/ru/ivk/nupproxy/util/json/CDL.java" changelist="45791523-4d5a-42fd-a41d-39c1d8654cd0" time="1417355323601" ignored="false" />
+    <file path="$PROJECT_DIR$/../nupproxy/trunk/src/main/java/ru/ivk/nupproxy/util/json/Cookie.java" changelist="45791523-4d5a-42fd-a41d-39c1d8654cd0" time="1417355323601" ignored="false" />
+    <file path="$PROJECT_DIR$/../nupproxy/trunk/src/main/java/ru/ivk/nupproxy/util/json/CookieList.java" changelist="45791523-4d5a-42fd-a41d-39c1d8654cd0" time="1417355323601" ignored="false" />
+    <file path="$PROJECT_DIR$/../nupproxy/trunk/src/main/java/ru/ivk/nupproxy/util/json/HTTP.java" changelist="45791523-4d5a-42fd-a41d-39c1d8654cd0" time="1417355323601" ignored="false" />
+    <file path="$PROJECT_DIR$/../nupproxy/trunk/src/main/java/ru/ivk/nupproxy/util/json/HTTPTokener.java" changelist="45791523-4d5a-42fd-a41d-39c1d8654cd0" time="1417355323601" ignored="false" />
+    <file path="$PROJECT_DIR$/../nupproxy/trunk/src/main/java/ru/ivk/nupproxy/util/json/JSONArray.java" changelist="45791523-4d5a-42fd-a41d-39c1d8654cd0" time="1417355323601" ignored="false" />
+    <file path="$PROJECT_DIR$/../nupproxy/trunk/src/main/java/ru/ivk/nupproxy/util/json/JSONException.java" changelist="45791523-4d5a-42fd-a41d-39c1d8654cd0" time="1417355323601" ignored="false" />
+    <file path="$PROJECT_DIR$/../nupproxy/trunk/src/main/java/ru/ivk/nupproxy/util/json/JSONML.java" changelist="45791523-4d5a-42fd-a41d-39c1d8654cd0" time="1417355323601" ignored="false" />
+    <file path="$PROJECT_DIR$/../nupproxy/trunk/src/main/java/ru/ivk/nupproxy/util/json/zip/BitInputStream.java" changelist="45791523-4d5a-42fd-a41d-39c1d8654cd0" time="1417355323601" ignored="false" />
+    <file path="$PROJECT_DIR$/../nupproxy/trunk/src/main/java/ru/ivk/nupproxy/util/json/JSONObject.java" changelist="45791523-4d5a-42fd-a41d-39c1d8654cd0" time="1417355323601" ignored="false" />
+    <file path="$PROJECT_DIR$/../nupproxy/trunk/src/main/java/ru/ivk/nupproxy/util/json/JSONString.java" changelist="45791523-4d5a-42fd-a41d-39c1d8654cd0" time="1417355323601" ignored="false" />
+    <file path="$PROJECT_DIR$/../nupproxy/trunk/src/main/java/ru/ivk/nupproxy/util/json/JSONStringer.java" changelist="45791523-4d5a-42fd-a41d-39c1d8654cd0" time="1417355323601" ignored="false" />
+    <file path="$PROJECT_DIR$/../nupproxy/trunk/src/main/java/ru/ivk/nupproxy/util/json/JSONTokener.java" changelist="45791523-4d5a-42fd-a41d-39c1d8654cd0" time="1417355323601" ignored="false" />
+    <file path="$PROJECT_DIR$/../nupproxy/trunk/src/main/java/ru/ivk/nupproxy/util/json/JSONWriter.java" changelist="45791523-4d5a-42fd-a41d-39c1d8654cd0" time="1417355323601" ignored="false" />
+    <file path="$PROJECT_DIR$/../nupproxy/trunk/src/main/java/ru/ivk/nupproxy/util/json/Kim.java" changelist="45791523-4d5a-42fd-a41d-39c1d8654cd0" time="1417355323601" ignored="false" />
+    <file path="$PROJECT_DIR$/../nupproxy/trunk/src/main/java/ru/ivk/nupproxy/util/json/Property.java" changelist="45791523-4d5a-42fd-a41d-39c1d8654cd0" time="1417355323601" ignored="false" />
+    <file path="$PROJECT_DIR$/../nupproxy/trunk/src/main/java/ru/ivk/nupproxy/util/json/XML.java" changelist="45791523-4d5a-42fd-a41d-39c1d8654cd0" time="1417355323601" ignored="false" />
+    <file path="$PROJECT_DIR$/../nupproxy/trunk/src/main/java/ru/ivk/nupproxy/util/json/XMLTokener.java" changelist="45791523-4d5a-42fd-a41d-39c1d8654cd0" time="1417355323601" ignored="false" />
+    <file path="$PROJECT_DIR$/../nupproxy/trunk/src/main/java/ru/ivk/nupproxy/util/json/zip/BitOutputStream.java" changelist="45791523-4d5a-42fd-a41d-39c1d8654cd0" time="1417355323601" ignored="false" />
+    <file path="$PROJECT_DIR$/../nupproxy/trunk/src/main/java/ru/ivk/nupproxy/util/json/zip/BitReader.java" changelist="45791523-4d5a-42fd-a41d-39c1d8654cd0" time="1417355323601" ignored="false" />
+    <file path="$PROJECT_DIR$/../nupproxy/trunk/src/main/java/ru/ivk/nupproxy/util/json/zip/BitWriter.java" changelist="45791523-4d5a-42fd-a41d-39c1d8654cd0" time="1417355323601" ignored="false" />
+    <file path="$PROJECT_DIR$/../nupproxy/trunk/src/main/java/ru/ivk/nupproxy/util/json/zip/Huff.java" changelist="45791523-4d5a-42fd-a41d-39c1d8654cd0" time="1417355323601" ignored="false" />
+    <file path="$PROJECT_DIR$/../nupproxy/trunk/src/main/java/ru/ivk/nupproxy/util/json/zip/JSONzip.java" changelist="45791523-4d5a-42fd-a41d-39c1d8654cd0" time="1417355323601" ignored="false" />
+    <file path="$PROJECT_DIR$/../nupproxy/trunk/src/main/java/ru/ivk/nupproxy/util/json/zip/Keep.java" changelist="45791523-4d5a-42fd-a41d-39c1d8654cd0" time="1417355323601" ignored="false" />
+    <file path="$PROJECT_DIR$/../nupproxy/trunk/src/main/java/ru/ivk/nupproxy/util/json/zip/None.java" changelist="45791523-4d5a-42fd-a41d-39c1d8654cd0" time="1417355323601" ignored="false" />
+    <file path="$PROJECT_DIR$/../nupproxy/trunk/src/main/java/ru/ivk/nupproxy/util/json/zip/PostMortem.java" changelist="45791523-4d5a-42fd-a41d-39c1d8654cd0" time="1417355323601" ignored="false" />
+    <file path="$PROJECT_DIR$/../nupproxy/trunk/src/main/java/ru/ivk/nupproxy/util/json/zip/Unzipper.java" changelist="45791523-4d5a-42fd-a41d-39c1d8654cd0" time="1417355323601" ignored="false" />
+    <file path="$PROJECT_DIR$/../nupproxy/trunk/src/main/java/ru/ivk/nupproxy/util/json/zip/Zipper.java" changelist="45791523-4d5a-42fd-a41d-39c1d8654cd0" time="1417355323601" ignored="false" />
+    <file path="$PROJECT_DIR$/../nupproxy/trunk/src/main/java/org/json/zip/BitInputStream.java" changelist="45791523-4d5a-42fd-a41d-39c1d8654cd0" time="1417355540271" ignored="false" />
+    <file path="$PROJECT_DIR$/../nupproxy/trunk/src/main/java/org/json/zip/BitOutputStream.java" changelist="45791523-4d5a-42fd-a41d-39c1d8654cd0" time="1417355540271" ignored="false" />
+    <file path="$PROJECT_DIR$/../nupproxy/trunk/src/main/java/org/json/zip/BitReader.java" changelist="45791523-4d5a-42fd-a41d-39c1d8654cd0" time="1417355540271" ignored="false" />
+    <file path="$PROJECT_DIR$/../nupproxy/trunk/src/main/java/org/json/zip/BitWriter.java" changelist="45791523-4d5a-42fd-a41d-39c1d8654cd0" time="1417355540271" ignored="false" />
+    <file path="$PROJECT_DIR$/../nupproxy/trunk/src/main/java/org/json/JSONML.java" changelist="45791523-4d5a-42fd-a41d-39c1d8654cd0" time="1417355540271" ignored="false" />
+    <file path="$PROJECT_DIR$/../nupproxy/trunk/src/main/java/org/json/JSONObject.java" changelist="45791523-4d5a-42fd-a41d-39c1d8654cd0" time="1417355540271" ignored="false" />
+    <file path="$PROJECT_DIR$/../nupproxy/trunk/src/main/java/org/json/JSONTokener.java" changelist="45791523-4d5a-42fd-a41d-39c1d8654cd0" time="1417355540271" ignored="false" />
+    <file path="$PROJECT_DIR$/../nupproxy/trunk/src/main/java/org/json/JSONWriter.java" changelist="45791523-4d5a-42fd-a41d-39c1d8654cd0" time="1417355540271" ignored="false" />
+    <file path="$PROJECT_DIR$/../nupproxy/trunk/src/main/java/org/json/Kim.java" changelist="45791523-4d5a-42fd-a41d-39c1d8654cd0" time="1417355540271" ignored="false" />
+    <file path="$PROJECT_DIR$/../nupproxy/trunk/src/main/java/org/json/Property.java" changelist="45791523-4d5a-42fd-a41d-39c1d8654cd0" time="1417355540271" ignored="false" />
+    <file path="$PROJECT_DIR$/../nupproxy/trunk/src/main/java/org/json/XML.java" changelist="45791523-4d5a-42fd-a41d-39c1d8654cd0" time="1417355540271" ignored="false" />
+    <file path="$PROJECT_DIR$/../nupproxy/trunk/src/main/java/org/json/XMLTokener.java" changelist="45791523-4d5a-42fd-a41d-39c1d8654cd0" time="1417355540271" ignored="false" />
+    <file path="$PROJECT_DIR$/../nupproxy/trunk/src/main/java/ru/ivk/nupproxy/client/ClientStarter.java" changelist="45791523-4d5a-42fd-a41d-39c1d8654cd0" time="1417368054785" ignored="false" />
+    <file path="$PROJECT_DIR$/../nupproxy/trunk/src/main/java/ru/ivk/nupproxy/Starter.java" changelist="45791523-4d5a-42fd-a41d-39c1d8654cd0" time="1417368054786" ignored="false" />
+    <file path="C:/Program Files (x86)/Java/jdk1.6.0_31/src.zip!/java/rmi/Remote.java" changelist="45791523-4d5a-42fd-a41d-39c1d8654cd0" time="1417424377999" ignored="false" />
+    <file path="/OperandsTest.java" changelist="45791523-4d5a-42fd-a41d-39c1d8654cd0" time="1417427173505" ignored="false" />
+    <file path="/HashSetTest.java" changelist="45791523-4d5a-42fd-a41d-39c1d8654cd0" time="1417441231753" ignored="false" />
+    <file path="$PROJECT_DIR$/../nupproxy/trunk/src/main/java/ru/ivk/nupproxy/SessionInfo.java" changelist="45791523-4d5a-42fd-a41d-39c1d8654cd0" time="1417448487134" ignored="false" />
+    <file path="/SessionInfo.java" changelist="45791523-4d5a-42fd-a41d-39c1d8654cd0" time="1417448352591" ignored="false" />
+    <file path="/DeadLockTest.java" changelist="45791523-4d5a-42fd-a41d-39c1d8654cd0" time="1417527431746" ignored="false" />
+    <file path="$PROJECT_DIR$/../z8/ru.ivk.z8.servlet/trunk/src/main/java/ru/ivk/z8/web/servlet/Servlet.java" changelist="45791523-4d5a-42fd-a41d-39c1d8654cd0" time="1417528837721" ignored="false" />
+    <file path="$PROJECT_DIR$/../z8/ru.ivk.z8.server/trunk/src/main/java/ru/ivk/z8/server/base/model/actions/DetachAction.java" changelist="45791523-4d5a-42fd-a41d-39c1d8654cd0" time="1417692199679" ignored="false" />
+    <file path="/DetachAction.java" changelist="45791523-4d5a-42fd-a41d-39c1d8654cd0" time="1417534614382" ignored="false" />
+    <file path="/CyclesTest.java" changelist="45791523-4d5a-42fd-a41d-39c1d8654cd0" time="1417688189692" ignored="false" />
+    <file path="$PROJECT_DIR$/../postfactor/postfactor-webapp/trunk/src/main/webapp/index.jsp" changelist="45791523-4d5a-42fd-a41d-39c1d8654cd0" time="1417688343872" ignored="false" />
+    <file path="/Streams.java" changelist="45791523-4d5a-42fd-a41d-39c1d8654cd0" time="1417693429252" ignored="false" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="DaemonCodeAnalyzer">
+    <disable_hints />
+  </component>
+  <component name="DebuggerManager">
+    <line_breakpoints default_suspend_policy="SuspendAll" default_condition_enabled="true">
+      <breakpoint url="file://$PROJECT_DIR$/src/test/java/CollectionsTest.java" line="154" class="CollectionsTest" package="">
+        <option name="ENABLED" value="true" />
+        <option name="LOG_ENABLED" value="false" />
+        <option name="LOG_EXPRESSION_ENABLED" value="false" />
+        <option name="SUSPEND_POLICY" value="SuspendAll" />
+        <option name="SUSPEND" value="true" />
+        <option name="COUNT_FILTER_ENABLED" value="false" />
+        <option name="COUNT_FILTER" value="0" />
+        <option name="CONDITION_ENABLED" value="true" />
+        <option name="CLASS_FILTERS_ENABLED" value="false" />
+        <option name="INSTANCE_FILTERS_ENABLED" value="false" />
+        <option name="CONDITION" value="" />
+        <option name="LOG_MESSAGE" value="" />
+      </breakpoint>
+      <breakpoint url="file://$PROJECT_DIR$/src/test/java/HashSetTest.java" line="20" class="HashSetTest" package="">
+        <option name="ENABLED" value="true" />
+        <option name="LOG_ENABLED" value="false" />
+        <option name="LOG_EXPRESSION_ENABLED" value="false" />
+        <option name="SUSPEND_POLICY" value="SuspendAll" />
+        <option name="SUSPEND" value="true" />
+        <option name="COUNT_FILTER_ENABLED" value="false" />
+        <option name="COUNT_FILTER" value="0" />
+        <option name="CONDITION_ENABLED" value="true" />
+        <option name="CLASS_FILTERS_ENABLED" value="false" />
+        <option name="INSTANCE_FILTERS_ENABLED" value="false" />
+        <option name="CONDITION" value="" />
+        <option name="LOG_MESSAGE" value="" />
+      </breakpoint>
+      <breakpoint url="file://$PROJECT_DIR$/src/main/java/streams/Streams.java" line="44" class="streams.Streams" package="streams">
+        <option name="ENABLED" value="true" />
+        <option name="LOG_ENABLED" value="false" />
+        <option name="LOG_EXPRESSION_ENABLED" value="false" />
+        <option name="SUSPEND_POLICY" value="SuspendAll" />
+        <option name="SUSPEND" value="true" />
+        <option name="COUNT_FILTER_ENABLED" value="false" />
+        <option name="COUNT_FILTER" value="0" />
+        <option name="CONDITION_ENABLED" value="true" />
+        <option name="CLASS_FILTERS_ENABLED" value="false" />
+        <option name="INSTANCE_FILTERS_ENABLED" value="false" />
+        <option name="CONDITION" value="" />
+        <option name="LOG_MESSAGE" value="" />
+      </breakpoint>
+    </line_breakpoints>
+    <ui_properties default_suspend_policy="SuspendAll" default_condition_enabled="true" />
+    <breakpoint_any default_suspend_policy="SuspendAll" default_condition_enabled="true">
+      <breakpoint>
+        <option name="NOTIFY_CAUGHT" value="true" />
+        <option name="NOTIFY_UNCAUGHT" value="true" />
+        <option name="ENABLED" value="false" />
+        <option name="LOG_ENABLED" value="false" />
+        <option name="LOG_EXPRESSION_ENABLED" value="false" />
+        <option name="SUSPEND_POLICY" value="SuspendAll" />
+        <option name="SUSPEND" value="true" />
+        <option name="COUNT_FILTER_ENABLED" value="false" />
+        <option name="COUNT_FILTER" value="0" />
+        <option name="CONDITION_ENABLED" value="true" />
+        <option name="CLASS_FILTERS_ENABLED" value="false" />
+        <option name="INSTANCE_FILTERS_ENABLED" value="false" />
+        <option name="CONDITION" value="" />
+        <option name="LOG_MESSAGE" value="" />
+      </breakpoint>
+      <breakpoint>
+        <option name="NOTIFY_CAUGHT" value="true" />
+        <option name="NOTIFY_UNCAUGHT" value="true" />
+        <option name="ENABLED" value="false" />
+        <option name="LOG_ENABLED" value="false" />
+        <option name="LOG_EXPRESSION_ENABLED" value="false" />
+        <option name="SUSPEND_POLICY" value="SuspendAll" />
+        <option name="SUSPEND" value="true" />
+        <option name="COUNT_FILTER_ENABLED" value="false" />
+        <option name="COUNT_FILTER" value="0" />
+        <option name="CONDITION_ENABLED" value="true" />
+        <option name="CLASS_FILTERS_ENABLED" value="false" />
+        <option name="INSTANCE_FILTERS_ENABLED" value="false" />
+        <option name="CONDITION" value="" />
+        <option name="LOG_MESSAGE" value="" />
+      </breakpoint>
+    </breakpoint_any>
+    <exception_breakpoints default_suspend_policy="SuspendAll" default_condition_enabled="true">
+      <breakpoint class_name="java.lang.IndexOutOfBoundsException" package_name="java.lang">
+        <option name="NOTIFY_CAUGHT" value="true" />
+        <option name="NOTIFY_UNCAUGHT" value="true" />
+        <option name="ENABLED" value="true" />
+        <option name="LOG_ENABLED" value="false" />
+        <option name="LOG_EXPRESSION_ENABLED" value="false" />
+        <option name="SUSPEND_POLICY" value="SuspendAll" />
+        <option name="SUSPEND" value="true" />
+        <option name="COUNT_FILTER_ENABLED" value="false" />
+        <option name="COUNT_FILTER" value="0" />
+        <option name="CONDITION_ENABLED" value="true" />
+        <option name="CLASS_FILTERS_ENABLED" value="false" />
+        <option name="INSTANCE_FILTERS_ENABLED" value="false" />
+        <option name="CONDITION" value="&#13;&#13;JAVA" />
+        <option name="LOG_MESSAGE" value="&#13;&#13;JAVA" />
+      </breakpoint>
+    </exception_breakpoints>
+    <breakpoint_rules />
+    <ui_properties />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="collectionsTest" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="XMLUtils.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="jar://C:/Program Files (x86)/Java/jdk1.6.0_31/src.zip!/java/util/XMLUtils.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="27" column="6" selection-start="670" selection-end="670" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ConcurrentHashMap.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="jar://C:/Program Files (x86)/Java/jdk1.6.0_31/src.zip!/java/util/concurrent/ConcurrentHashMap.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="73" column="13" selection-start="3487" selection-end="3487" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Semaphore.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="jar://C:/Program Files (x86)/Java/jdk1.6.0_31/src.zip!/java/util/concurrent/Semaphore.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="132" column="13" selection-start="5480" selection-end="5480" vertical-scroll-proportion="0.0">
+              <folding>
+                <element signature="e#0#27778#0" expanded="false" />
+                <element signature="imports" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="CyclesTest.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/CyclesTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="21" column="5" selection-start="412" selection-end="412" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="DeadLockTest.java" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/test/java/DeadLockTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="11" column="4" selection-start="237" selection-end="237" vertical-scroll-proportion="0.27910447">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="pom.xml" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="7" column="17" selection-start="350" selection-end="350" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Streams.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/streams/Streams.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="26" column="36" selection-start="754" selection-end="754" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="StreamsTest.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/StreamsTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="44" column="23" selection-start="1061" selection-end="1061" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ByteInputStream.class" pinned="false" current="false" current-in-tab="false">
+        <entry file="jar://C:/Program Files (x86)/Java/jdk1.6.0_31/jre/lib/rt.jar!/com/sun/xml/internal/messaging/saaj/util/ByteInputStream.class">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="9" column="11" selection-start="295" selection-end="295" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="FileInputStream.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="jar://C:/Program Files (x86)/Java/jdk1.6.0_31/src.zip!/java/io/FileInputStream.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="173" column="22" selection-start="6366" selection-end="6366" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindManager">
+    <FindUsagesManager>
+      <setting name="OPEN_NEW_TAB" value="false" />
+    </FindUsagesManager>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="changedFiles">
+      <list>
+        <option value="$PROJECT_DIR$/src/main/java/multithreading/Queue.java" />
+        <option value="$PROJECT_DIR$/src/main/java/multithreading/Performer.java" />
+        <option value="C:/Program Files (x86)/Java/jdk1.6.0_31/jre/lib/jce.jar!/javax/crypto/interfaces/DHKey.class" />
+        <option value="$PROJECT_DIR$/src/test/java/HashMapTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/strings/uri/Util.java" />
+        <option value="$PROJECT_DIR$/src/test/java/UriTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/OperandsTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/HashSetTest.java" />
+        <option value="C:/Program Files (x86)/Java/jdk1.6.0_31/src.zip!/java/util/HashSet.java" />
+        <option value="$PROJECT_DIR$/src/main/java/multithreading/Deadlock.java" />
+        <option value="C:/Program Files (x86)/Java/jdk1.6.0_31/src.zip!/java/util/concurrent/Semaphore.java" />
+        <option value="$PROJECT_DIR$/src/test/java/CyclesTest.java" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/test/java/StreamsTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/streams/Streams.java" />
+        <option value="$PROJECT_DIR$/src/test/java/DeadLockTest.java" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <PATH>
+        <PATH_ELEMENT>
+          <option name="myItemId" value="" />
+          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$RootNode" />
+        </PATH_ELEMENT>
+      </PATH>
+    </treeState>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1616" />
+    <option name="height" value="876" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <OptionsSetting value="true" id="Undo Check Out" />
+    <OptionsSetting value="true" id="Get Latest Version" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectReloadState">
+    <option name="STATE" value="0" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1" splitterProportion="0.5">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="JTest" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="JTest" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="collectionsTest" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="JTest" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="collectionsTest" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="test" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="JTest" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="collectionsTest" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="JTest" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="collectionsTest" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="JTest" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="collectionsTest" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="structures" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="GoToFile.includeJavaFiles" value="false" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="OverrideImplement.combined" value="false" />
+    <property name="recentsLimit" value="5" />
+    <property name="MemberChooser.sorted" value="false" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="MemberChooser.copyJavadoc" value="false" />
+    <property name="GoToClass.toSaveIncludeLibraries" value="false" />
+    <property name="WebServerToolWindowFactoryState" value="true" />
+    <property name="restartRequiresConfirmation" value="true" />
+    <property name="MemberChooser.showClasses" value="true" />
+    <property name="GoToClass.includeLibraries" value="false" />
+    <property name="dynamic.classpath" value="false" />
+  </component>
+  <component name="PublishConfig">
+    <servers>
+      <server id="864b8425-240e-483f-be7b-f6bb44813703">
+        <serverdata>
+          <mappings>
+            <mapping local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </server>
+    </servers>
+  </component>
+  <component name="RunManager" selected="JUnit.StreamsTest">
+    <configuration default="false" name="UriTest" type="JUnit" factoryName="JUnit" temporary="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="collectionsTest" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="UriTest" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <envs />
+      <patterns />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method />
+    </configuration>
+    <configuration default="false" name="OperandsTest" type="JUnit" factoryName="JUnit" temporary="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="collectionsTest" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="OperandsTest" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <envs />
+      <patterns />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="" />
+        <option name="TRANSPORT" value="0" />
+        <option name="LOCAL" value="true" />
+      </RunnerSettings>
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Debug" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method />
+    </configuration>
+    <configuration default="false" name="HashSetTest" type="JUnit" factoryName="JUnit" temporary="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="collectionsTest" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="HashSetTest" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <envs />
+      <patterns />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="" />
+        <option name="TRANSPORT" value="0" />
+        <option name="LOCAL" value="true" />
+      </RunnerSettings>
+      <ConfigurationWrapper RunnerId="Debug" />
+      <method />
+    </configuration>
+    <configuration default="false" name="CyclesTest" type="JUnit" factoryName="JUnit" temporary="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="collectionsTest" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="CyclesTest" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <envs />
+      <patterns />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method />
+    </configuration>
+    <configuration default="false" name="StreamsTest" type="JUnit" factoryName="JUnit" temporary="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="JTest" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="StreamsTest" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <envs />
+      <patterns />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="" />
+        <option name="TRANSPORT" value="0" />
+        <option name="LOCAL" value="true" />
+      </RunnerSettings>
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Debug" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method />
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <envs />
+      <patterns />
+      <method />
+    </configuration>
+    <list size="5">
+      <item index="0" class="java.lang.String" itemvalue="JUnit.UriTest" />
+      <item index="1" class="java.lang.String" itemvalue="JUnit.OperandsTest" />
+      <item index="2" class="java.lang.String" itemvalue="JUnit.HashSetTest" />
+      <item index="3" class="java.lang.String" itemvalue="JUnit.CyclesTest" />
+      <item index="4" class="java.lang.String" itemvalue="JUnit.StreamsTest" />
+    </list>
+    <recent_temporary>
+      <list size="5">
+        <item index="0" class="java.lang.String" itemvalue="JUnit.StreamsTest" />
+        <item index="1" class="java.lang.String" itemvalue="JUnit.CyclesTest" />
+        <item index="2" class="java.lang.String" itemvalue="JUnit.HashSetTest" />
+        <item index="3" class="java.lang.String" itemvalue="JUnit.OperandsTest" />
+        <item index="4" class="java.lang.String" itemvalue="JUnit.UriTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="SvnConfiguration" maxAnnotateRevisions="500" myUseAcceleration="nothing" myAutoUpdateAfterCommit="false" cleanupOnStartRun="false">
+    <option name="USER" value="" />
+    <option name="PASSWORD" value="" />
+    <option name="mySSHConnectionTimeout" value="30000" />
+    <option name="mySSHReadTimeout" value="30000" />
+    <option name="LAST_MERGED_REVISION" />
+    <option name="MERGE_DRY_RUN" value="false" />
+    <option name="MERGE_DIFF_USE_ANCESTRY" value="true" />
+    <option name="UPDATE_LOCK_ON_DEMAND" value="false" />
+    <option name="IGNORE_SPACES_IN_MERGE" value="false" />
+    <option name="DETECT_NESTED_COPIES" value="true" />
+    <option name="CHECK_NESTED_FOR_QUICK_MERGE" value="false" />
+    <option name="IGNORE_SPACES_IN_ANNOTATE" value="true" />
+    <option name="SHOW_MERGE_SOURCES_IN_ANNOTATE" value="true" />
+    <option name="FORCE_UPDATE" value="false" />
+    <option name="IGNORE_EXTERNALS" value="false" />
+    <myIsUseDefaultProxy>false</myIsUseDefaultProxy>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="45791523-4d5a-42fd-a41d-39c1d8654cd0" name="Default" comment="" />
+      <created>1413982956864</created>
+      <updated>1413982956864</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1616" height="876" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="JetGradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Remote Host" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.39888424" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="IDEtalk Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="IDEtalk" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32914925" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.23487774" sideWeight="0.69316596" order="1" side_tool="true" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32947233" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.23487774" sideWeight="0.51324964" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.48675033" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32858837" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="OFFER_MOVE_TO_ANOTHER_CHANGELIST_ON_PARTIAL_COMMIT" value="true" />
+    <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="true" />
+    <option name="CHECK_NEW_TODO" value="true" />
+    <option name="myTodoPanelSettings">
+      <value>
+        <are-packages-shown value="false" />
+        <are-modules-shown value="false" />
+        <flatten-packages value="false" />
+        <is-autoscroll-to-source value="false" />
+      </value>
+    </option>
+    <option name="PERFORM_UPDATE_IN_BACKGROUND" value="true" />
+    <option name="PERFORM_COMMIT_IN_BACKGROUND" value="true" />
+    <option name="PERFORM_EDIT_IN_BACKGROUND" value="true" />
+    <option name="PERFORM_CHECKOUT_IN_BACKGROUND" value="true" />
+    <option name="PERFORM_ADD_REMOVE_IN_BACKGROUND" value="true" />
+    <option name="PERFORM_ROLLBACK_IN_BACKGROUND" value="false" />
+    <option name="CHECK_LOCALLY_CHANGED_CONFLICTS_IN_BACKGROUND" value="false" />
+    <option name="CHANGED_ON_SERVER_INTERVAL" value="60" />
+    <option name="SHOW_ONLY_CHANGED_IN_SELECTION_DIFF" value="true" />
+    <option name="CHECK_COMMIT_MESSAGE_SPELLING" value="true" />
+    <option name="DEFAULT_PATCH_EXTENSION" value="patch" />
+    <option name="SHORT_DIFF_HORISONTALLY" value="true" />
+    <option name="SHORT_DIFF_EXTRA_LINES" value="2" />
+    <option name="SOFT_WRAPS_IN_SHORT_DIFF" value="true" />
+    <option name="INCLUDE_TEXT_INTO_PATCH" value="false" />
+    <option name="INCLUDE_TEXT_INTO_SHELF" value="false" />
+    <option name="SHOW_FILE_HISTORY_DETAILS" value="true" />
+    <option name="SHOW_VCS_ERROR_NOTIFICATIONS" value="true" />
+    <option name="SHOW_DIRTY_RECURSIVELY" value="false" />
+    <option name="LIMIT_HISTORY" value="true" />
+    <option name="MAXIMUM_HISTORY_ROWS" value="1000" />
+    <option name="FORCE_NON_EMPTY_COMMENT" value="false" />
+    <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="false" />
+    <option name="LAST_COMMIT_MESSAGE" />
+    <option name="MAKE_NEW_CHANGELIST_ACTIVE" value="false" />
+    <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="false" />
+    <option name="CHECK_FILES_UP_TO_DATE_BEFORE_COMMIT" value="false" />
+    <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="false" />
+    <option name="REFORMAT_BEFORE_FILE_COMMIT" value="false" />
+    <option name="FILE_HISTORY_DIALOG_COMMENTS_SPLITTER_PROPORTION" value="0.8" />
+    <option name="FILE_HISTORY_DIALOG_SPLITTER_PROPORTION" value="0.5" />
+    <option name="ACTIVE_VCS_NAME" />
+    <option name="UPDATE_GROUP_BY_PACKAGES" value="false" />
+    <option name="UPDATE_GROUP_BY_CHANGELIST" value="false" />
+    <option name="SHOW_FILE_HISTORY_AS_TREE" value="false" />
+    <option name="FILE_HISTORY_SPLITTER_PROPORTION" value="0.6" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints-dialog>
+        <breakpoints-dialog />
+      </breakpoints-dialog>
+    </breakpoint-manager>
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/test/java/CollectionsTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="11" column="13" selection-start="282" selection-end="282" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/collections/CollectionManager.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="19" column="16" selection-start="526" selection-end="526" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/multithreading/Deadlock.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="42" column="21" selection-start="1002" selection-end="1002" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/strings/uri/Util.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="21" column="36" selection-start="645" selection-end="645" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files (x86)/Java/jdk1.6.0_31/src.zip!/java/util/XMLUtils.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="27" column="6" selection-start="670" selection-end="670" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/multithreading/Performer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="34" column="0" selection-start="453" selection-end="453" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files (x86)/Java/jdk1.6.0_31/src.zip!/java/util/concurrent/ConcurrentHashMap.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="73" column="13" selection-start="3487" selection-end="3487" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/OperandsTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="29" column="5" selection-start="660" selection-end="660" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files (x86)/Java/jdk1.6.0_31/src.zip!/java/util/concurrent/Semaphore.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="132" column="13" selection-start="5480" selection-end="5480" vertical-scroll-proportion="0.0">
+          <folding>
+            <element signature="e#0#27778#0" expanded="false" />
+            <element signature="imports" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="7" column="17" selection-start="350" selection-end="350" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files (x86)/Java/jdk1.6.0_31/jre/lib/rt.jar!/com/sun/xml/internal/messaging/saaj/util/ByteInputStream.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="9" column="11" selection-start="295" selection-end="295" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files (x86)/Java/jdk1.6.0_31/src.zip!/java/io/FileInputStream.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="173" column="22" selection-start="6366" selection-end="6366" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/StreamsTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="44" column="23" selection-start="1061" selection-end="1061" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/streams/Streams.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="26" column="36" selection-start="754" selection-end="754" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/CyclesTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="21" column="5" selection-start="412" selection-end="412" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/DeadLockTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="11" column="4" selection-start="237" selection-end="237" vertical-scroll-proportion="0.27910447">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>javax.annotation</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.6</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>JTest</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
+
