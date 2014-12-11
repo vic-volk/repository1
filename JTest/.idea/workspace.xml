@@ -6,8 +6,8 @@
     <ignored path=".idea/workspace.xml" />
     <file path="$PROJECT_DIR$/../z8/.idea/workspace.xml" changelist="45791523-4d5a-42fd-a41d-39c1d8654cd0" time="1413984458119" ignored="false" />
     <file path="/CollectionManager.java" changelist="45791523-4d5a-42fd-a41d-39c1d8654cd0" time="1416299865561" ignored="false" />
-    <file path="/CollectionsTest.java" changelist="45791523-4d5a-42fd-a41d-39c1d8654cd0" time="1415609867111" ignored="false" />
-    <file path="/fragment.java" changelist="45791523-4d5a-42fd-a41d-39c1d8654cd0" time="1417426316160" ignored="false" />
+    <file path="/CollectionsTest.java" changelist="45791523-4d5a-42fd-a41d-39c1d8654cd0" time="1418025967069" ignored="false" />
+    <file path="/fragment.java" changelist="45791523-4d5a-42fd-a41d-39c1d8654cd0" time="1418026776103" ignored="false" />
     <file path="$PROJECT_DIR$/../testDocs4j/src/main/java/Main.java" changelist="45791523-4d5a-42fd-a41d-39c1d8654cd0" time="1414059078899" ignored="false" />
     <file path="/Main.java" changelist="45791523-4d5a-42fd-a41d-39c1d8654cd0" time="1415608088999" ignored="false" />
     <file path="$PROJECT_DIR$/../testJODC/pom.xml" changelist="45791523-4d5a-42fd-a41d-39c1d8654cd0" time="1414059314947" ignored="false" />
@@ -17,14 +17,14 @@
     <file path="/AdobeConverter.java" changelist="45791523-4d5a-42fd-a41d-39c1d8654cd0" time="1414061915301" ignored="false" />
     <file path="/JODConverter.java" changelist="45791523-4d5a-42fd-a41d-39c1d8654cd0" time="1414066482397" ignored="false" />
     <file path="$PROJECT_DIR$/../org.samples.docxconverters.jodconverter/src/org/samples/docxconverters/jodconverter/pdf/Docx4j_GettingStartedToPDF.java" changelist="45791523-4d5a-42fd-a41d-39c1d8654cd0" time="1414156429558" ignored="false" />
-    <file path="/a.dummy" changelist="45791523-4d5a-42fd-a41d-39c1d8654cd0" time="1417442099407" ignored="false" />
+    <file path="/a.dummy" changelist="45791523-4d5a-42fd-a41d-39c1d8654cd0" time="1418121477357" ignored="false" />
     <file path="/Docx4j_GettingStartedToPDF.java" changelist="45791523-4d5a-42fd-a41d-39c1d8654cd0" time="1414068771736" ignored="false" />
     <file path="$PROJECT_DIR$/../z8/ru.ivk.z8.servlet/trunk/src/main/java/ru/ivk/z8/web/servlet/PDFCacheServlet.java" changelist="45791523-4d5a-42fd-a41d-39c1d8654cd0" time="1414158313908" ignored="false" />
     <file path="/LoadFilesTest.java" changelist="45791523-4d5a-42fd-a41d-39c1d8654cd0" time="1414150722311" ignored="false" />
     <file path="/PDFCacheServlet.java" changelist="45791523-4d5a-42fd-a41d-39c1d8654cd0" time="1414158260952" ignored="false" />
     <file path="$PROJECT_DIR$/../z8/ru.ivk.z8.servlet/trunk/pom.xml" changelist="45791523-4d5a-42fd-a41d-39c1d8654cd0" time="1417165296687" ignored="false" />
-    <file path="/pom.xml" changelist="45791523-4d5a-42fd-a41d-39c1d8654cd0" time="1417692380017" ignored="false" />
-    <file path="/Dummy.txt" changelist="45791523-4d5a-42fd-a41d-39c1d8654cd0" time="1417692295291" ignored="false" />
+    <file path="/pom.xml" changelist="45791523-4d5a-42fd-a41d-39c1d8654cd0" time="1418207626457" ignored="false" />
+    <file path="/Dummy.txt" changelist="45791523-4d5a-42fd-a41d-39c1d8654cd0" time="1418026776103" ignored="false" />
     <file path="$PROJECT_DIR$/../eemodule/pom.xml" changelist="45791523-4d5a-42fd-a41d-39c1d8654cd0" time="1415347602272" ignored="false" />
     <file path="$PROJECT_DIR$/../alliances/alliances/pom.xml" changelist="45791523-4d5a-42fd-a41d-39c1d8654cd0" time="1415348126982" ignored="false" />
     <file path="$PROJECT_DIR$/../alliances/alliances/src/main/webapp/conf/spring.config.xml" changelist="45791523-4d5a-42fd-a41d-39c1d8654cd0" time="1415349184834" ignored="false" />
@@ -35,10 +35,10 @@
     <file path="$PROJECT_DIR$/../postfactor/postfactor-webapp/trunk/src/main/webapp/WEB-INF/project.xml" changelist="45791523-4d5a-42fd-a41d-39c1d8654cd0" time="1417528745675" ignored="false" />
     <file path="/JsonAdapter.java" changelist="45791523-4d5a-42fd-a41d-39c1d8654cd0" time="1417692247568" ignored="false" />
     <file path="$MAVEN_REPOSITORY$/ru/ivk/z8/ru.ivk.z8.servlet/1.0.0/ru.ivk.z8.servlet-1.0.0-sources.jar!/ru/ivk/z8/web/server/PDFCacheAdapter.java" changelist="45791523-4d5a-42fd-a41d-39c1d8654cd0" time="1417528933349" ignored="false" />
-    <file path="$MAVEN_REPOSITORY$/ru/ivk/z8/ru.ivk.z8.servlet/1.0.0/ru.ivk.z8.servlet-1.0.0-sources.jar!/ru/ivk/z8/web/server/JsonAdapter.java" changelist="45791523-4d5a-42fd-a41d-39c1d8654cd0" time="1417528933349" ignored="false" />
+    <file path="$MAVEN_REPOSITORY$/ru/ivk/z8/ru.ivk.z8.servlet/1.0.0/ru.ivk.z8.servlet-1.0.0-sources.jar!/ru/ivk/z8/web/server/JsonAdapter.java" changelist="45791523-4d5a-42fd-a41d-39c1d8654cd0" time="1418130068765" ignored="false" />
     <file path="$PROJECT_DIR$/../z8/ru.ivk.z8.server/trunk/src/main/java/ru/ivk/z8/server/base/model/actions/FileAttachAction.java" changelist="45791523-4d5a-42fd-a41d-39c1d8654cd0" time="1415625555385" ignored="false" />
     <file path="/FileAttachAction.java" changelist="45791523-4d5a-42fd-a41d-39c1d8654cd0" time="1415624229741" ignored="false" />
-    <file path="/CollectionObjectManager.java" changelist="45791523-4d5a-42fd-a41d-39c1d8654cd0" time="1415610288415" ignored="false" />
+    <file path="/CollectionObjectManager.java" changelist="45791523-4d5a-42fd-a41d-39c1d8654cd0" time="1418026495087" ignored="false" />
     <file path="$PROJECT_DIR$/../z8/ru.ivk.z8.server/trunk/src/main/java/ru/ivk/z8/server/base/table/value/BinaryField.java" changelist="45791523-4d5a-42fd-a41d-39c1d8654cd0" time="1415634184440" ignored="false" />
     <file path="/BinaryField.java" changelist="45791523-4d5a-42fd-a41d-39c1d8654cd0" time="1415633571915" ignored="false" />
     <file path="$PROJECT_DIR$/../z8/ru.ivk.z8.server/trunk/src/main/java/ru/ivk/z8/server/base/table/system/Files.java" changelist="45791523-4d5a-42fd-a41d-39c1d8654cd0" time="1416400031234" ignored="false" />
@@ -208,6 +208,36 @@
     <file path="/CyclesTest.java" changelist="45791523-4d5a-42fd-a41d-39c1d8654cd0" time="1417688189692" ignored="false" />
     <file path="$PROJECT_DIR$/../postfactor/postfactor-webapp/trunk/src/main/webapp/index.jsp" changelist="45791523-4d5a-42fd-a41d-39c1d8654cd0" time="1417688343872" ignored="false" />
     <file path="/Streams.java" changelist="45791523-4d5a-42fd-a41d-39c1d8654cd0" time="1417693429252" ignored="false" />
+    <file path="/IDbDriver.java" changelist="45791523-4d5a-42fd-a41d-39c1d8654cd0" time="1418026976071" ignored="false" />
+    <file path="$PROJECT_DIR$/../ExtJsTest/.idea/workspace.xml" changelist="45791523-4d5a-42fd-a41d-39c1d8654cd0" time="1418031150726" ignored="false" />
+    <file path="/ServerSocketTest.java" changelist="45791523-4d5a-42fd-a41d-39c1d8654cd0" time="1418033443344" ignored="false" />
+    <file path="$PROJECT_DIR$/../ExtJsTest/extjs/build/examples/index.html" changelist="45791523-4d5a-42fd-a41d-39c1d8654cd0" time="1418113903542" ignored="false" />
+    <file path="$PROJECT_DIR$/../ExtJsTest/extjs/build/examples/main.js" changelist="45791523-4d5a-42fd-a41d-39c1d8654cd0" time="1418114007039" ignored="false" />
+    <file path="/main.js" changelist="45791523-4d5a-42fd-a41d-39c1d8654cd0" time="1418113995852" ignored="false" />
+    <file path="$PROJECT_DIR$/../ExtJsTest/index.html" changelist="45791523-4d5a-42fd-a41d-39c1d8654cd0" time="1418122295068" ignored="false" />
+    <file path="/index.html" changelist="45791523-4d5a-42fd-a41d-39c1d8654cd0" time="1418119666604" ignored="false" />
+    <file path="$PROJECT_DIR$/../ExtJsTest/app.js" changelist="45791523-4d5a-42fd-a41d-39c1d8654cd0" time="1418121857478" ignored="false" />
+    <file path="$PROJECT_DIR$/../ExtJsTest/jsApp/model.js" changelist="45791523-4d5a-42fd-a41d-39c1d8654cd0" time="1418116269661" ignored="false" />
+    <file path="$PROJECT_DIR$/../ExtJsTest/jsApp/view.js" changelist="45791523-4d5a-42fd-a41d-39c1d8654cd0" time="1418119016204" ignored="false" />
+    <file path="$PROJECT_DIR$/../ExtJsTest/jsApp/store.js" changelist="45791523-4d5a-42fd-a41d-39c1d8654cd0" time="1418116332331" ignored="false" />
+    <file path="$USER_HOME$/IdeaProjects/postfactor/postfactor-webapp/trunk/src/main/webapp/postfactor/controller/GridView.js" changelist="45791523-4d5a-42fd-a41d-39c1d8654cd0" time="1418128921224" ignored="false" />
+    <file path="$USER_HOME$/IdeaProjects/postfactor/postfactor-webapp/trunk/src/main/webapp/button/ActionButton.js" changelist="45791523-4d5a-42fd-a41d-39c1d8654cd0" time="1418116677224" ignored="false" />
+    <file path="$USER_HOME$/IdeaProjects/postfactor/postfactor-webapp/trunk/src/main/webapp/postfactor/controller/Desktop.js" changelist="45791523-4d5a-42fd-a41d-39c1d8654cd0" time="1418116677224" ignored="false" />
+    <file path="$USER_HOME$/IdeaProjects/postfactor/postfactor-webapp/trunk/src/main/webapp/data/Action.js" changelist="45791523-4d5a-42fd-a41d-39c1d8654cd0" time="1418116677224" ignored="false" />
+    <file path="$USER_HOME$/IdeaProjects/postfactor/postfactor-webapp/trunk/src/main/webapp/test.js" changelist="45791523-4d5a-42fd-a41d-39c1d8654cd0" time="1418133649528" ignored="false" />
+    <file path="$USER_HOME$/IdeaProjects/postfactor/postfactor-webapp/trunk/src/main/webapp/postfactor/base/FilesPanel.js" changelist="45791523-4d5a-42fd-a41d-39c1d8654cd0" time="1418116677224" ignored="false" />
+    <file path="$USER_HOME$/IdeaProjects/postfactor/postfactor-webapp/trunk/src/main/webapp/index.jsp" changelist="45791523-4d5a-42fd-a41d-39c1d8654cd0" time="1418116679717" ignored="false" />
+    <file path="$USER_HOME$/IdeaProjects/postfactor/postfactor-webapp/trunk/pom.xml" changelist="45791523-4d5a-42fd-a41d-39c1d8654cd0" time="1418116679717" ignored="false" />
+    <file path="$USER_HOME$/IdeaProjects/postfactor/postfactor-webapp/trunk/src/main/resources/source-context.xml" changelist="45791523-4d5a-42fd-a41d-39c1d8654cd0" time="1418116679717" ignored="false" />
+    <file path="$USER_HOME$/IdeaProjects/postfactor/postfactor-webapp/trunk/src/main/webapp/postfactor/base/GridView.js" changelist="45791523-4d5a-42fd-a41d-39c1d8654cd0" time="1418128921224" ignored="false" />
+    <file path="$PROJECT_DIR$/../ExtJsTest/Application.js" changelist="45791523-4d5a-42fd-a41d-39c1d8654cd0" time="1418121904166" ignored="false" />
+    <file path="$PROJECT_DIR$/../ExtJsTest/view/main/Main.js" changelist="45791523-4d5a-42fd-a41d-39c1d8654cd0" time="1418121973255" ignored="false" />
+    <file path="$PROJECT_DIR$/../ExtJsTest/view/main/MainController.js" changelist="45791523-4d5a-42fd-a41d-39c1d8654cd0" time="1418122002812" ignored="false" />
+    <file path="$PROJECT_DIR$/../ExtJsTest/view/main/MainModel.js" changelist="45791523-4d5a-42fd-a41d-39c1d8654cd0" time="1418122033015" ignored="false" />
+    <file path="$USER_HOME$/IdeaProjects/postfactor/postfactor-webapp/trunk/src/main/webapp/postfactor/applications/missions/Model.js" changelist="45791523-4d5a-42fd-a41d-39c1d8654cd0" time="1418128921224" ignored="false" />
+    <file path="C:/Program Files (x86)/Java/jdk1.7.0_67/src.zip!/java/io/FileInputStream.java" changelist="45791523-4d5a-42fd-a41d-39c1d8654cd0" time="1418130195732" ignored="false" />
+    <file path="$USER_HOME$/IdeaProjects/postfactor/postfactor-core/trunk/ru/ivk/postfactor/обращения/Поручение.bl" changelist="45791523-4d5a-42fd-a41d-39c1d8654cd0" time="1418137008520" ignored="false" />
+    <file path="/HelloLucene.java" changelist="45791523-4d5a-42fd-a41d-39c1d8654cd0" time="1418221656514" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -223,20 +253,6 @@
   </component>
   <component name="DebuggerManager">
     <line_breakpoints default_suspend_policy="SuspendAll" default_condition_enabled="true">
-      <breakpoint url="file://$PROJECT_DIR$/src/test/java/CollectionsTest.java" line="154" class="CollectionsTest" package="">
-        <option name="ENABLED" value="true" />
-        <option name="LOG_ENABLED" value="false" />
-        <option name="LOG_EXPRESSION_ENABLED" value="false" />
-        <option name="SUSPEND_POLICY" value="SuspendAll" />
-        <option name="SUSPEND" value="true" />
-        <option name="COUNT_FILTER_ENABLED" value="false" />
-        <option name="COUNT_FILTER" value="0" />
-        <option name="CONDITION_ENABLED" value="true" />
-        <option name="CLASS_FILTERS_ENABLED" value="false" />
-        <option name="INSTANCE_FILTERS_ENABLED" value="false" />
-        <option name="CONDITION" value="" />
-        <option name="LOG_MESSAGE" value="" />
-      </breakpoint>
       <breakpoint url="file://$PROJECT_DIR$/src/test/java/HashSetTest.java" line="20" class="HashSetTest" package="">
         <option name="ENABLED" value="true" />
         <option name="LOG_ENABLED" value="false" />
@@ -266,7 +282,6 @@
         <option name="LOG_MESSAGE" value="" />
       </breakpoint>
     </line_breakpoints>
-    <ui_properties default_suspend_policy="SuspendAll" default_condition_enabled="true" />
     <breakpoint_any default_suspend_policy="SuspendAll" default_condition_enabled="true">
       <breakpoint>
         <option name="NOTIFY_CAUGHT" value="true" />
@@ -305,7 +320,7 @@
       <breakpoint class_name="java.lang.IndexOutOfBoundsException" package_name="java.lang">
         <option name="NOTIFY_CAUGHT" value="true" />
         <option name="NOTIFY_UNCAUGHT" value="true" />
-        <option name="ENABLED" value="true" />
+        <option name="ENABLED" value="false" />
         <option name="LOG_ENABLED" value="false" />
         <option name="LOG_EXPRESSION_ENABLED" value="false" />
         <option name="SUSPEND_POLICY" value="SuspendAll" />
@@ -319,103 +334,86 @@
         <option name="LOG_MESSAGE" value="&#13;&#13;JAVA" />
       </breakpoint>
     </exception_breakpoints>
+    <ui_properties default_suspend_policy="SuspendAll" default_condition_enabled="true" />
     <breakpoint_rules />
     <ui_properties />
   </component>
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FavoritesManager">
     <favorites_list name="collectionsTest" />
+    <favorites_list name="JTest" />
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="XMLUtils.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="jar://C:/Program Files (x86)/Java/jdk1.6.0_31/src.zip!/java/util/XMLUtils.java">
+      <file leaf-file-name="pom.xml" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="27" column="6" selection-start="670" selection-end="670" vertical-scroll-proportion="0.0">
+            <state line="24" column="55" selection-start="918" selection-end="918" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ConcurrentHashMap.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="jar://C:/Program Files (x86)/Java/jdk1.6.0_31/src.zip!/java/util/concurrent/ConcurrentHashMap.java">
+      <file leaf-file-name="HelloLucene.java" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/search/fulltext/lucene/HelloLucene.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="73" column="13" selection-start="3487" selection-end="3487" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Semaphore.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="jar://C:/Program Files (x86)/Java/jdk1.6.0_31/src.zip!/java/util/concurrent/Semaphore.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="132" column="13" selection-start="5480" selection-end="5480" vertical-scroll-proportion="0.0">
+            <state line="64" column="30" selection-start="2581" selection-end="2581" vertical-scroll-proportion="0.5720721">
               <folding>
-                <element signature="e#0#27778#0" expanded="false" />
-                <element signature="imports" expanded="false" />
+                <element signature="imports" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="CyclesTest.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/CyclesTest.java">
+      <file leaf-file-name="QueryParser.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="jar://$MAVEN_REPOSITORY$/org/apache/lucene/lucene-queryparser/4.0.0/lucene-queryparser-4.0.0-sources.jar!/org/apache/lucene/queryparser/classic/QueryParser.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="21" column="5" selection-start="412" selection-end="412" vertical-scroll-proportion="0.0">
+            <state line="98" column="10" selection-start="3872" selection-end="3872" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="DeadLockTest.java" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/test/java/DeadLockTest.java">
+      <file leaf-file-name="text" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/text">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="11" column="4" selection-start="237" selection-end="237" vertical-scroll-proportion="0.27910447">
+            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="pom.xml" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/pom.xml">
+      <file leaf-file-name="StringField.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="jar://$MAVEN_REPOSITORY$/org/apache/lucene/lucene-core/4.0.0/lucene-core-4.0.0-sources.jar!/org/apache/lucene/document/StringField.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="7" column="17" selection-start="350" selection-end="350" vertical-scroll-proportion="0.0">
+            <state line="58" column="9" selection-start="2215" selection-end="2215" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Streams.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/streams/Streams.java">
+      <file leaf-file-name="SignatureParser.class" pinned="false" current="false" current-in-tab="false">
+        <entry file="jar://C:/Program Files (x86)/Java/jdk1.6.0_31/jre/lib/rt.jar!/sun/reflect/generics/parser/SignatureParser.class">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="26" column="36" selection-start="754" selection-end="754" vertical-scroll-proportion="0.0">
+            <state line="21" column="0" selection-start="608" selection-end="608" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="StreamsTest.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/StreamsTest.java">
+      <file leaf-file-name="StandardAnalyzer.class" pinned="false" current="false" current-in-tab="false">
+        <entry file="jar://$MAVEN_REPOSITORY$/org/apache/lucene/lucene-analyzers-common/4.0.0/lucene-analyzers-common-4.0.0.jar!/org/apache/lucene/analysis/standard/StandardAnalyzer.class">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="44" column="23" selection-start="1061" selection-end="1061" vertical-scroll-proportion="0.0">
+            <state line="6" column="19" selection-start="184" selection-end="184" vertical-scroll-proportion="-3.4">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ByteInputStream.class" pinned="false" current="false" current-in-tab="false">
-        <entry file="jar://C:/Program Files (x86)/Java/jdk1.6.0_31/jre/lib/rt.jar!/com/sun/xml/internal/messaging/saaj/util/ByteInputStream.class">
+      <file leaf-file-name="ClassicAnalyzer.class" pinned="false" current="false" current-in-tab="false">
+        <entry file="jar://$MAVEN_REPOSITORY$/org/apache/lucene/lucene-analyzers-common/4.0.0/lucene-analyzers-common-4.0.0.jar!/org/apache/lucene/analysis/standard/ClassicAnalyzer.class">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="9" column="11" selection-start="295" selection-end="295" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="FileInputStream.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="jar://C:/Program Files (x86)/Java/jdk1.6.0_31/src.zip!/java/io/FileInputStream.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="173" column="22" selection-start="6366" selection-end="6366" vertical-scroll-proportion="0.0">
+            <state line="6" column="19" selection-start="184" selection-end="184" vertical-scroll-proportion="-3.4">
               <folding />
             </state>
           </provider>
@@ -431,22 +429,22 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/src/main/java/multithreading/Queue.java" />
-        <option value="$PROJECT_DIR$/src/main/java/multithreading/Performer.java" />
-        <option value="C:/Program Files (x86)/Java/jdk1.6.0_31/jre/lib/jce.jar!/javax/crypto/interfaces/DHKey.class" />
-        <option value="$PROJECT_DIR$/src/test/java/HashMapTest.java" />
-        <option value="$PROJECT_DIR$/src/main/java/strings/uri/Util.java" />
-        <option value="$PROJECT_DIR$/src/test/java/UriTest.java" />
-        <option value="$PROJECT_DIR$/src/test/java/OperandsTest.java" />
-        <option value="$PROJECT_DIR$/src/test/java/HashSetTest.java" />
         <option value="C:/Program Files (x86)/Java/jdk1.6.0_31/src.zip!/java/util/HashSet.java" />
         <option value="$PROJECT_DIR$/src/main/java/multithreading/Deadlock.java" />
         <option value="C:/Program Files (x86)/Java/jdk1.6.0_31/src.zip!/java/util/concurrent/Semaphore.java" />
         <option value="$PROJECT_DIR$/src/test/java/CyclesTest.java" />
-        <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/src/test/java/StreamsTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/streams/Streams.java" />
         <option value="$PROJECT_DIR$/src/test/java/DeadLockTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/CollectionsTest.java" />
+        <option value="C:/Program Files (x86)/Java/jdk1.6.0_31/src.zip!/java/lang/Runtime.java" />
+        <option value="$PROJECT_DIR$/src/main/java/collections/CollectionObjectManager.java" />
+        <option value="$PROJECT_DIR$/src/main/java/interfaces/IDbDriver.java" />
+        <option value="$PROJECT_DIR$/src/test/java/ServerSocketTest.java" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/search/fulltext/lucene/text" />
+        <option value="$PROJECT_DIR$/text" />
+        <option value="$PROJECT_DIR$/src/main/java/search/fulltext/lucene/HelloLucene.java" />
       </list>
     </option>
   </component>
@@ -501,6 +499,8 @@
       <sortByType />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -508,6 +508,10 @@
               <option name="myItemId" value="JTest" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="External Libraries" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ExternalLibrariesNode" />
+            </PATH_ELEMENT>
           </PATH>
           <PATH>
             <PATH_ELEMENT>
@@ -515,7 +519,19 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="collectionsTest" />
+              <option name="myItemId" value="External Libraries" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ExternalLibrariesNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Maven: org.apache.lucene:lucene-analyzers-common:4.0.0" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.NamedLibraryElementNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="lucene-analyzers-common-4.0.0.jar" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="org" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -525,21 +541,41 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="collectionsTest" />
+              <option name="myItemId" value="External Libraries" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ExternalLibrariesNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Maven: org.apache.lucene:lucene-analyzers-common:4.0.0" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.NamedLibraryElementNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="lucene-analyzers-common-4.0.0.jar" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="JTest" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="JTest" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="JTest" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="JTest" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="src" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="test" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="java" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
           </PATH>
           <PATH>
             <PATH_ELEMENT>
@@ -547,7 +583,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="collectionsTest" />
+              <option name="myItemId" value="JTest" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
@@ -565,7 +601,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="collectionsTest" />
+              <option name="myItemId" value="JTest" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
@@ -587,7 +623,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="collectionsTest" />
+              <option name="myItemId" value="JTest" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
@@ -603,14 +639,12 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="structures" />
+              <option name="myItemId" value="lucene" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -618,8 +652,11 @@
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="OverrideImplement.combined" value="false" />
+    <property name="options.splitter.main.proportions" value="0.3" />
+    <property name="options.lastSelected" value="project.propVCSSupport.Mappings" />
     <property name="recentsLimit" value="5" />
     <property name="MemberChooser.sorted" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="MemberChooser.copyJavadoc" value="false" />
     <property name="GoToClass.toSaveIncludeLibraries" value="false" />
@@ -628,6 +665,8 @@
     <property name="MemberChooser.showClasses" value="true" />
     <property name="GoToClass.includeLibraries" value="false" />
     <property name="dynamic.classpath" value="false" />
+    <property name="options.splitter.details.proportions" value="0.2" />
+    <property name="options.searchVisible" value="true" />
   </component>
   <component name="PublishConfig">
     <servers>
@@ -640,86 +679,12 @@
       </server>
     </servers>
   </component>
-  <component name="RunManager" selected="JUnit.StreamsTest">
-    <configuration default="false" name="UriTest" type="JUnit" factoryName="JUnit" temporary="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <module name="collectionsTest" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="UriTest" />
-      <option name="METHOD_NAME" />
-      <option name="TEST_OBJECT" value="class" />
-      <option name="VM_PARAMETERS" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="moduleWithDependencies" />
-      </option>
-      <envs />
-      <patterns />
-      <RunnerSettings RunnerId="Run" />
-      <ConfigurationWrapper RunnerId="Run" />
-      <method />
-    </configuration>
-    <configuration default="false" name="OperandsTest" type="JUnit" factoryName="JUnit" temporary="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <module name="collectionsTest" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="OperandsTest" />
-      <option name="METHOD_NAME" />
-      <option name="TEST_OBJECT" value="class" />
-      <option name="VM_PARAMETERS" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="moduleWithDependencies" />
-      </option>
-      <envs />
-      <patterns />
-      <RunnerSettings RunnerId="Debug">
-        <option name="DEBUG_PORT" value="" />
-        <option name="TRANSPORT" value="0" />
-        <option name="LOCAL" value="true" />
-      </RunnerSettings>
-      <RunnerSettings RunnerId="Run" />
-      <ConfigurationWrapper RunnerId="Debug" />
-      <ConfigurationWrapper RunnerId="Run" />
-      <method />
-    </configuration>
-    <configuration default="false" name="HashSetTest" type="JUnit" factoryName="JUnit" temporary="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <module name="collectionsTest" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="HashSetTest" />
-      <option name="METHOD_NAME" />
-      <option name="TEST_OBJECT" value="class" />
-      <option name="VM_PARAMETERS" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="moduleWithDependencies" />
-      </option>
-      <envs />
-      <patterns />
-      <RunnerSettings RunnerId="Debug">
-        <option name="DEBUG_PORT" value="" />
-        <option name="TRANSPORT" value="0" />
-        <option name="LOCAL" value="true" />
-      </RunnerSettings>
-      <ConfigurationWrapper RunnerId="Debug" />
-      <method />
-    </configuration>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\volkov\local_git_projects\JTest" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.HelloLucene">
     <configuration default="false" name="CyclesTest" type="JUnit" factoryName="JUnit" temporary="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <module name="collectionsTest" />
@@ -772,6 +737,86 @@
       <ConfigurationWrapper RunnerId="Run" />
       <method />
     </configuration>
+    <configuration default="false" name="CollectionsTest" type="JUnit" factoryName="JUnit" temporary="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="JTest" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" value="" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="CollectionsTest" />
+      <option name="METHOD_NAME" value="" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-Xmx1500M" />
+      <option name="PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <envs />
+      <patterns />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method />
+    </configuration>
+    <configuration default="false" name="ServerSocketTest" type="JUnit" factoryName="JUnit" temporary="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="JTest" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="ServerSocketTest" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <envs />
+      <patterns />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="" />
+        <option name="TRANSPORT" value="0" />
+        <option name="LOCAL" value="true" />
+      </RunnerSettings>
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Debug" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method />
+    </configuration>
+    <configuration default="false" name="HelloLucene" type="Application" factoryName="Application" temporary="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="search.fulltext.lucene.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="search.fulltext.lucene.HelloLucene" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="JTest" />
+      <envs />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="" />
+        <option name="TRANSPORT" value="0" />
+        <option name="LOCAL" value="true" />
+      </RunnerSettings>
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Debug" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method />
+    </configuration>
     <configuration default="true" type="Application" factoryName="Application">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <option name="MAIN_CLASS_NAME" />
@@ -809,19 +854,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="JUnit.UriTest" />
-      <item index="1" class="java.lang.String" itemvalue="JUnit.OperandsTest" />
-      <item index="2" class="java.lang.String" itemvalue="JUnit.HashSetTest" />
-      <item index="3" class="java.lang.String" itemvalue="JUnit.CyclesTest" />
-      <item index="4" class="java.lang.String" itemvalue="JUnit.StreamsTest" />
+      <item index="0" class="java.lang.String" itemvalue="JUnit.CyclesTest" />
+      <item index="1" class="java.lang.String" itemvalue="JUnit.StreamsTest" />
+      <item index="2" class="java.lang.String" itemvalue="JUnit.CollectionsTest" />
+      <item index="3" class="java.lang.String" itemvalue="JUnit.ServerSocketTest" />
+      <item index="4" class="java.lang.String" itemvalue="Application.HelloLucene" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="JUnit.StreamsTest" />
-        <item index="1" class="java.lang.String" itemvalue="JUnit.CyclesTest" />
-        <item index="2" class="java.lang.String" itemvalue="JUnit.HashSetTest" />
-        <item index="3" class="java.lang.String" itemvalue="JUnit.OperandsTest" />
-        <item index="4" class="java.lang.String" itemvalue="JUnit.UriTest" />
+        <item index="0" class="java.lang.String" itemvalue="Application.HelloLucene" />
+        <item index="1" class="java.lang.String" itemvalue="JUnit.ServerSocketTest" />
+        <item index="2" class="java.lang.String" itemvalue="JUnit.CollectionsTest" />
+        <item index="3" class="java.lang.String" itemvalue="JUnit.StreamsTest" />
+        <item index="4" class="java.lang.String" itemvalue="JUnit.CyclesTest" />
       </list>
     </recent_temporary>
   </component>
@@ -853,7 +898,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1616" height="876" extended-state="6" />
+    <frame x="-8" y="-8" width="1616" height="876" extended-state="7" />
     <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -874,7 +919,7 @@
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32947233" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.23487774" sideWeight="0.51324964" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.20656371" sideWeight="0.51324964" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.48675033" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -947,118 +992,119 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/main/java/collections/CollectionObjectManager.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="43" column="29" selection-start="952" selection-end="952" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files (x86)/Java/jdk1.6.0_31/src.zip!/java/net/ServerSocket.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="423" column="18" selection-start="14594" selection-end="14594" vertical-scroll-proportion="0.33283582">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/lucene/lucene-core/4.0.0/lucene-core-4.0.0.jar!/org/apache/lucene/util/Version.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="6" column="18" selection-start="170" selection-end="170" vertical-scroll-proportion="0.28716215">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/lucene/lucene-queryparser/4.0.0/lucene-queryparser-4.0.0.jar!/org/apache/lucene/queryparser/classic/QueryParser.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="28" column="11" selection-start="1258" selection-end="1258" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/lucene/lucene-analyzers-common/4.0.0/lucene-analyzers-common-4.0.0.jar!/org/apache/lucene/analysis/standard/StandardAnalyzer.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="6" column="19" selection-start="184" selection-end="184" vertical-scroll-proportion="-3.4">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/lucene/lucene-analyzers-common/4.0.0/lucene-analyzers-common-4.0.0.jar!/org/apache/lucene/analysis/standard/ClassicAnalyzer.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="6" column="19" selection-start="184" selection-end="184" vertical-scroll-proportion="-3.4">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files (x86)/Java/jdk1.6.0_31/jre/lib/rt.jar!/sun/reflect/generics/parser/SignatureParser.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="21" column="0" selection-start="608" selection-end="608" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/lucene/lucene-core/4.0.0/lucene-core-4.0.0.jar!/org/apache/lucene/document/StringField.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="10" column="11" selection-start="394" selection-end="394" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/lucene/lucene-core/4.0.0/lucene-core-4.0.0-sources.jar!/org/apache/lucene/document/StringField.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="58" column="9" selection-start="2215" selection-end="2215" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/CollectionsTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="11" column="13" selection-start="282" selection-end="282" vertical-scroll-proportion="0.0">
+        <state line="149" column="52" selection-start="4782" selection-end="4782" vertical-scroll-proportion="1.165109">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/collections/CollectionManager.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/interfaces/IDbDriver.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="19" column="16" selection-start="526" selection-end="526" vertical-scroll-proportion="0.0">
+        <state line="10" column="0" selection-start="203" selection-end="203" vertical-scroll-proportion="0.49707603">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/multithreading/Deadlock.java">
+    <entry file="file://$PROJECT_DIR$/src/test/java/ServerSocketTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="42" column="21" selection-start="1002" selection-end="1002" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/strings/uri/Util.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="21" column="36" selection-start="645" selection-end="645" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files (x86)/Java/jdk1.6.0_31/src.zip!/java/util/XMLUtils.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="27" column="6" selection-start="670" selection-end="670" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/multithreading/Performer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="34" column="0" selection-start="453" selection-end="453" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files (x86)/Java/jdk1.6.0_31/src.zip!/java/util/concurrent/ConcurrentHashMap.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="73" column="13" selection-start="3487" selection-end="3487" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/OperandsTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="29" column="5" selection-start="660" selection-end="660" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files (x86)/Java/jdk1.6.0_31/src.zip!/java/util/concurrent/Semaphore.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="132" column="13" selection-start="5480" selection-end="5480" vertical-scroll-proportion="0.0">
+        <state line="27" column="25" selection-start="722" selection-end="722" vertical-scroll-proportion="1.0">
           <folding>
-            <element signature="e#0#27778#0" expanded="false" />
-            <element signature="imports" expanded="false" />
+            <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/text">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="7" column="17" selection-start="350" selection-end="350" vertical-scroll-proportion="0.0">
+        <state line="24" column="55" selection-start="918" selection-end="918" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="jar://C:/Program Files (x86)/Java/jdk1.6.0_31/jre/lib/rt.jar!/com/sun/xml/internal/messaging/saaj/util/ByteInputStream.class">
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/lucene/lucene-queryparser/4.0.0/lucene-queryparser-4.0.0-sources.jar!/org/apache/lucene/queryparser/classic/QueryParser.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="9" column="11" selection-start="295" selection-end="295" vertical-scroll-proportion="0.0">
+        <state line="98" column="10" selection-start="3872" selection-end="3872" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="jar://C:/Program Files (x86)/Java/jdk1.6.0_31/src.zip!/java/io/FileInputStream.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/search/fulltext/lucene/HelloLucene.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="173" column="22" selection-start="6366" selection-end="6366" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/StreamsTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="44" column="23" selection-start="1061" selection-end="1061" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/streams/Streams.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="26" column="36" selection-start="754" selection-end="754" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/CyclesTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="21" column="5" selection-start="412" selection-end="412" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/DeadLockTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="11" column="4" selection-start="237" selection-end="237" vertical-scroll-proportion="0.27910447">
-          <folding />
+        <state line="64" column="30" selection-start="2581" selection-end="2581" vertical-scroll-proportion="0.5720721">
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

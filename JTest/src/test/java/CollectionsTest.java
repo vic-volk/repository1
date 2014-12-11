@@ -37,6 +37,10 @@ public class CollectionsTest extends TestCase {
         collectionManager = new CollectionManager(4096*256);
         collectionManager.checkTimingsFind();
 
+        Runtime.getRuntime().gc();
+        collectionManager = new CollectionManager(4096*4096);
+        collectionManager.checkTimingsFind();
+
         System.out.println("END");
         System.out.println("");
 
@@ -74,12 +78,13 @@ public class CollectionsTest extends TestCase {
         collectionManager.sortCollections();
         collectionManager.checkTimingsFind();
 
+        Runtime.getRuntime().gc();
         System.out.println("END");
         System.out.println("");
 
     }
 
-    public void ntestSorting(){
+    public void testSorting(){
 
         System.out.println("SortingTest");
         System.out.println("");
@@ -100,12 +105,13 @@ public class CollectionsTest extends TestCase {
         collectionManager.printArrayList();
         collectionManager.printLinkedList();
 
+        Runtime.getRuntime().gc();
         System.out.println("END");
         System.out.println("");
 
     }
 
-    public void ntestTreeSet(){
+    public void testTreeSet(){
 
         System.out.println("Tree Set");
         System.out.println("");
@@ -131,15 +137,19 @@ public class CollectionsTest extends TestCase {
         collectionManager = new CollectionManager(4096*256, 1);
         collectionManager.checkTimingsFindTreeSet();
 
+        Runtime.getRuntime().gc();
         collectionManager = new CollectionManager(4096*4096, 1);
         collectionManager.checkTimingsFindTreeSet();
 
+        Runtime.getRuntime().gc();
         collectionManager = new CollectionManager(4096*4096*16, 1);
         collectionManager.checkTimingsFindTreeSet();
 
+        Runtime.getRuntime().gc();
         collectionManager = new CollectionManager(4096*4096*256, 1);
         collectionManager.checkTimingsFindTreeSet();
 
+        Runtime.getRuntime().gc();
         System.out.println("END");
         System.out.println("");
 
@@ -162,6 +172,8 @@ public class CollectionsTest extends TestCase {
         collectionObjectManager.checkTimeOfSearch(4096);
         collectionObjectManager.checkTimeOfSearch(4096);
 
+        Runtime.getRuntime().gc();
+
         System.out.println("4096*4096");
         System.out.println("");
 
@@ -169,6 +181,7 @@ public class CollectionsTest extends TestCase {
             collectionObjectManager.checkTimeOfSearch(4096 * 4096);
         }
 
+        Runtime.getRuntime().gc();
         System.out.println("4096*4096");
         System.out.println("");
 
